@@ -1,15 +1,21 @@
 """"""""""""""""""""""""""""""""""""
 """""""""""""VIM RC"""""""""""""""""
 """"""""""""""""""""""""""""""""""""
-:set nu
-:set ai
-:set ts=4
-:set hlsearch
-:set incsearch
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+set autoindent
+set number
+set paste
+set ai
+set ts=4
+set hlsearch
+set incsearch
 """"""""""""""""""""""""""""""""""""
 """""""Language C Programming"""""""
 """"""""""""""""""""""""""""""""""""
-"ab .i #include <stdio.h>
+ab .i #include <stdio.h>
 ab .l #include <stdlib.h>
 ab .s #include <string.h>
 ab .p printf("\n");
@@ -18,8 +24,8 @@ ab .p printf("\n");
 "“”“”Language C++ Programming“”“”“”“
 """"""""""""""""""""""""""""""""""""
 "ab .b #include <stdbool.h>
-ab .i #include <iostream>
-ab .u using namespace std;
+"ab .i #include <iostream>
+"ab .u using namespace std;
 
 """"""""""""""""""""""""""""""""""""
 "			Common				   "
