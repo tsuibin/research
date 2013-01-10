@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/ks8695
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/ks8695/lowlevel_init.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/ks8695/Makefile
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/ks8695/serial.c
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/ks8695/interrupts.c
+END

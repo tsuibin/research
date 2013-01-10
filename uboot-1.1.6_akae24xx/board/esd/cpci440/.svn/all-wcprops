@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/cpci440
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/cpci440/config.mk
+END
+strataflash.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/cpci440/strataflash.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/cpci440/Makefile
+END
+init.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/cpci440/init.S
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/cpci440/u-boot.lds
+END
+cpci440.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/cpci440/cpci440.c
+END

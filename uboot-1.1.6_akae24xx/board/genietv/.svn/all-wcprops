@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/genietv
+END
+genietv.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/genietv/genietv.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/genietv/u-boot.lds
+END
+genietv.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/genietv/genietv.h
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/genietv/config.mk
+END
+u-boot.lds.debug
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/genietv/u-boot.lds.debug
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/genietv/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/genietv/flash.c
+END

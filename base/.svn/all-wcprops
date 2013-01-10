@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/145/trunk/base
+END
+pun.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/145/trunk/base/pun.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/145/trunk/base/main.c
+END
+a.out
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/145/trunk/base/a.out
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/145/trunk/base/test
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/145/trunk/base/test.c
+END
+pun
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/145/trunk/base/pun
+END

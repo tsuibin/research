@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/101/trunk/framebuffer/fivechess/fivechess-0.1/mouse
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/101/trunk/framebuffer/fivechess/fivechess-0.1/mouse/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/101/trunk/framebuffer/fivechess/fivechess-0.1/mouse/common.h
+END
+draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/101/trunk/framebuffer/fivechess/fivechess-0.1/mouse/draw.c
+END
+mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/101/trunk/framebuffer/fivechess/fivechess-0.1/mouse/mouse.h
+END
+th_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/101/trunk/framebuffer/fivechess/fivechess-0.1/mouse/th_main.c
+END
+font_8x16.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/101/trunk/framebuffer/fivechess/fivechess-0.1/mouse/font_8x16.h
+END
+main
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/101/trunk/framebuffer/fivechess/fivechess-0.1/mouse/main
+END
+th_mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/101/trunk/framebuffer/fivechess/fivechess-0.1/mouse/th_mouse.c
+END
+fb.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/101/trunk/framebuffer/fivechess/fivechess-0.1/mouse/fb.c
+END

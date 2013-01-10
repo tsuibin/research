@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/hmi1001
+END
+hmi1001.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/hmi1001/hmi1001.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/hmi1001/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/hmi1001/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/hmi1001/Makefile
+END

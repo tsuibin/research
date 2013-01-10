@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_blackfin
+END
+bf533_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_blackfin/bf533_string.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_blackfin/Makefile
+END
+muldi3.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_blackfin/muldi3.c
+END
+bf533_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_blackfin/bf533_linux.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_blackfin/cache.c
+END
+blackfin_board.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_blackfin/blackfin_board.h
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_blackfin/board.c
+END

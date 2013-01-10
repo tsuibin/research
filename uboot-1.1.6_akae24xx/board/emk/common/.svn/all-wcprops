@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/emk/common
+END
+vpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/emk/common/vpd.c
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/emk/common/flash.c
+END
+am79c874.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/emk/common/am79c874.c
+END

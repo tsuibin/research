@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/112/trunk/stack
+END
+th_static.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/112/trunk/stack/th_static.c
+END
+main
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/112/trunk/stack/main
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/112/trunk/stack/main.c
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/112/trunk/stack/stack.c
+END
+make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/112/trunk/stack/make.sh
+END

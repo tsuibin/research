@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/pdnb3
+END
+pdnb3.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/pdnb3/pdnb3.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/pdnb3/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/pdnb3/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/pdnb3/flash.c
+END
+nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/pdnb3/nand.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/pdnb3/u-boot.lds
+END

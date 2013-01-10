@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/omap2420h4
+END
+sys_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/omap2420h4/sys_info.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/omap2420h4/config.mk
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/omap2420h4/lowlevel_init.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/omap2420h4/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/omap2420h4/flash.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/omap2420h4/mem.c
+END
+omap2420h4.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/omap2420h4/omap2420h4.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/omap2420h4/u-boot.lds
+END

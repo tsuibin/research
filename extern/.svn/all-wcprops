@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/62/trunk/extern
+END
+head.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/62/trunk/extern/head.h
+END
+add.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/53/trunk/extern/add.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/53/trunk/extern/main.c
+END

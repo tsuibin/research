@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0
+END
+usb_ohci.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0/usb_ohci.c
+END
+nand_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0/nand_read.c
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0/.depend
+END
+mmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0/mmc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0/Makefile
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0/i2c.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0/serial.c
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0/interrupts.c
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0/speed.c
+END
+usb_ohci.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0/usb_ohci.h
+END
+nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/arm920t/s3c24x0/nand.c
+END

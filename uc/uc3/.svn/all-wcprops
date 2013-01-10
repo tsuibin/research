@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/139/trunk/uc/uc3
+END
+interrput.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/129/trunk/uc/uc3/interrput.txt
+END
+sigchild.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/129/trunk/uc/uc3/sigchild.cc
+END
+xp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/129/trunk/uc/uc3/xp.cc
+END
+sigerr.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/129/trunk/uc/uc3/sigerr.c
+END
+sigint.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/139/trunk/uc/uc3/sigint.cc
+END
+log
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/129/trunk/uc/uc3/log
+END
+atex.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/129/trunk/uc/uc3/atex.cc
+END
+daemon.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/129/trunk/uc/uc3/daemon.cc
+END
+addexam.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/129/trunk/uc/uc3/addexam.cc
+END
+rfifo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/129/trunk/uc/uc3/rfifo.cc
+END
+MQ.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/129/trunk/uc/uc3/MQ.txt
+END
+wfifo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/129/trunk/uc/uc3/wfifo.cc
+END
+nocon.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/129/trunk/uc/uc3/nocon.cc
+END
+cmq.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/129/trunk/uc/uc3/cmq.c
+END
+pause.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/129/trunk/uc/uc3/pause.cc
+END
+process.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/126/trunk/uc/uc3/process.cc
+END
+ucshell2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/129/trunk/uc/uc3/ucshell2.cc
+END
+textfifo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/129/trunk/uc/uc3/textfifo.txt
+END
+h_mkfifo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/129/trunk/uc/uc3/h_mkfifo.cc
+END
+child.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/129/trunk/uc/uc3/child.cc
+END
+tick.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/129/trunk/uc/uc3/tick.txt
+END

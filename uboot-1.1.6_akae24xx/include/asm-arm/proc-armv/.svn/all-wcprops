@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-arm/proc-armv
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-arm/proc-armv/system.h
+END
+domain.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-arm/proc-armv/domain.h
+END
+ptrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-arm/proc-armv/ptrace.h
+END
+processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-arm/proc-armv/processor.h
+END

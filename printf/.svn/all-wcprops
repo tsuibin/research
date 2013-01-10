@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/69/trunk/printf
+END
+hello.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/26/trunk/printf/hello.c
+END
+make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/26/trunk/printf/make.sh
+END
+my_printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/26/trunk/printf/my_printf.c
+END
+ptrPrintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/26/trunk/printf/ptrPrintf.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/26/trunk/printf/Makefile
+END
+hello
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/26/trunk/printf/hello
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/26/trunk/printf/printf.c
+END

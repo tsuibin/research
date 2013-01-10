@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/145/trunk/exam
+END
+sqlite3.test
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/96/trunk/exam/sqlite3.test
+END
+Language_C.test
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/145/trunk/exam/Language_C.test
+END
+sqlite3.test2
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/96/trunk/exam/sqlite3.test2
+END

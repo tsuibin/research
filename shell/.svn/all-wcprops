@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/143/trunk/shell
+END
+sshCopyId.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/105/trunk/shell/sshCopyId.sh
+END
+hide.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/143/trunk/shell/hide.sh
+END
+syncdate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/43/trunk/shell/syncdate.sh
+END
+cleanout.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/143/trunk/shell/cleanout.sh
+END
+text
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/143/trunk/shell/text
+END
+echo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/105/trunk/shell/echo.sh
+END
+screenRecord.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/105/trunk/shell/screenRecord.sh
+END
+pythonWeb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/105/trunk/shell/pythonWeb.sh
+END
+metacity.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/143/trunk/shell/metacity.sh
+END
+installopencv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/143/trunk/shell/installopencv.sh
+END
+cleansys.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/143/trunk/shell/cleansys.sh
+END
+mrename.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/133/trunk/shell/mrename.sh
+END
+checkNetwork.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/105/trunk/shell/checkNetwork.sh
+END
+getenv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/143/trunk/shell/getenv.sh
+END
+getkey.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/143/trunk/shell/getkey.sh
+END
+cross.sh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/143/trunk/shell/cross.sh
+END
+lspwd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/17/trunk/shell/lspwd.sh
+END
+syncTime.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/143/trunk/shell/syncTime.sh
+END
+vim.sh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/105/trunk/shell/vim.sh
+END
+grep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/143/trunk/shell/grep.sh
+END
+remove.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/143/trunk/shell/remove.sh
+END
+back.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/105/trunk/shell/back.sh
+END

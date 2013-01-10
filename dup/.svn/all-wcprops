@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/130/trunk/dup
+END
+abc.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/130/trunk/dup/abc.tmp
+END
+a.out
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/130/trunk/dup/a.out
+END
+dup2.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/130/trunk/dup/dup2.c
+END

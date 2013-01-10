@@ -1,0 +1,1991 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs
+END
+METROBOX.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/METROBOX.h
+END
+IceCube.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/IceCube.h
+END
+ADCIOP.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ADCIOP.h
+END
+yucca.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/yucca.h
+END
+pdnb3.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/pdnb3.h
+END
+CPU87.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CPU87.h
+END
+r5200.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/r5200.h
+END
+TQM885D.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM885D.h
+END
+NETTA.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/NETTA.h
+END
+impa7.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/impa7.h
+END
+voiceblue.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/voiceblue.h
+END
+P3G4.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/P3G4.h
+END
+sc520_spunk_rel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/sc520_spunk_rel.h
+END
+VCMA9.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/VCMA9.h
+END
+hymod.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/hymod.h
+END
+VoVPN-GW.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/VoVPN-GW.h
+END
+hermes.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/hermes.h
+END
+kvme080.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/kvme080.h
+END
+CRAYL1.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CRAYL1.h
+END
+WUH405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/WUH405.h
+END
+XPEDITE1K.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/XPEDITE1K.h
+END
+DK1S10.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DK1S10.h
+END
+armadillo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/armadillo.h
+END
+QS860T.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/QS860T.h
+END
+Alaska8220.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/Alaska8220.h
+END
+TQM5200.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM5200.h
+END
+innokom.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/innokom.h
+END
+c2mon.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/c2mon.h
+END
+TQM862M.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM862M.h
+END
+FADS850SAR.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/FADS850SAR.h
+END
+yellowstone.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/yellowstone.h
+END
+sbc8240.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/sbc8240.h
+END
+CPCIISER4.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CPCIISER4.h
+END
+cpci5200.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/cpci5200.h
+END
+CANBT.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CANBT.h
+END
+cogent_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/cogent_common.h
+END
+MPC8260ADS.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC8260ADS.h
+END
+DB64460.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DB64460.h
+END
+lpd7a400.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/lpd7a400.h
+END
+KUP4K.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/KUP4K.h
+END
+MPC8555CDS.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC8555CDS.h
+END
+FPS850L.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/FPS850L.h
+END
+SL8245.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/SL8245.h
+END
+pleb2.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/pleb2.h
+END
+shannon.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/shannon.h
+END
+ns9750dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ns9750dev.h
+END
+csb637.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/csb637.h
+END
+kb9202.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/kb9202.h
+END
+omap1610inn.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/omap1610inn.h
+END
+TQM823L.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM823L.h
+END
+SX1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/SX1.h
+END
+IVML24.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/IVML24.h
+END
+IAD210.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/IAD210.h
+END
+TQM8260.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM8260.h
+END
+HIDDEN_DRAGON.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/HIDDEN_DRAGON.h
+END
+TQM834x.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM834x.h
+END
+omap5912osk.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/omap5912osk.h
+END
+GEN860T.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/GEN860T.h
+END
+lwmon.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/lwmon.h
+END
+eXalion.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/eXalion.h
+END
+DK1S10_safe_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DK1S10_safe_32.h
+END
+pb1x00.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/pb1x00.h
+END
+ORSG.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ORSG.h
+END
+lpd7a404-10.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/lpd7a404-10.h
+END
+zylonite.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/zylonite.h
+END
+EVB64260.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/EVB64260.h
+END
+canmb.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/canmb.h
+END
+DK1C20.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DK1C20.h
+END
+CPCI4052.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CPCI4052.h
+END
+sbc8560.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/sbc8560.h
+END
+MVBLUE.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MVBLUE.h
+END
+FLAGADM.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/FLAGADM.h
+END
+pcu_e.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/pcu_e.h
+END
+modnet50.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/modnet50.h
+END
+ADNPESC1_base_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ADNPESC1_base_32.h
+END
+ADNPESC1.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ADNPESC1.h
+END
+omap2420h4.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/omap2420h4.h
+END
+csb272.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/csb272.h
+END
+RBC823.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/RBC823.h
+END
+W7OLMC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/W7OLMC.h
+END
+debris.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/debris.h
+END
+TQM823M.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM823M.h
+END
+TQM855L.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM855L.h
+END
+QS823.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/QS823.h
+END
+xsengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/xsengine.h
+END
+NETPHONE.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/NETPHONE.h
+END
+ezkit533.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ezkit533.h
+END
+GTH.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/GTH.h
+END
+HH405.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/HH405.h
+END
+BAB7xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/BAB7xx.h
+END
+DP405.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DP405.h
+END
+PCIPPC2.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PCIPPC2.h
+END
+AmigaOneG3SE.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/AmigaOneG3SE.h
+END
+pcs440ep.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/pcs440ep.h
+END
+ELPPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ELPPC.h
+END
+ppmc7xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ppmc7xx.h
+END
+atc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/atc.h
+END
+TOP5200.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TOP5200.h
+END
+FADS823.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/FADS823.h
+END
+TQM850L.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM850L.h
+END
+RPXClassic.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/RPXClassic.h
+END
+pf5200.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/pf5200.h
+END
+MPC885ADS.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC885ADS.h
+END
+SM850.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/SM850.h
+END
+sacsng.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/sacsng.h
+END
+hmi1001.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/hmi1001.h
+END
+Adder.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/Adder.h
+END
+ep8260.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ep8260.h
+END
+mcc200.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/mcc200.h
+END
+PN62.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PN62.h
+END
+VOH405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/VOH405.h
+END
+cogent_mpc8xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/cogent_mpc8xx.h
+END
+cmc_pu2.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/cmc_pu2.h
+END
+uc100.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/uc100.h
+END
+G2000.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/G2000.h
+END
+atstk1002.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/atstk1002.h
+END
+quantum.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/quantum.h
+END
+scb9328.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/scb9328.h
+END
+ETX094.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ETX094.h
+END
+cogent_mpc8260.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/cogent_mpc8260.h
+END
+GENIETV.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/GENIETV.h
+END
+FPS860L.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/FPS860L.h
+END
+smdk2400.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/smdk2400.h
+END
+EXBITGEN.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/EXBITGEN.h
+END
+ZPC1900.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ZPC1900.h
+END
+LANTEC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/LANTEC.h
+END
+IVMS8.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/IVMS8.h
+END
+PMC405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PMC405.h
+END
+DK1C20_standard_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DK1C20_standard_32.h
+END
+EP1S10.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/EP1S10.h
+END
+M5282EVB.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/M5282EVB.h
+END
+ep82xxm.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ep82xxm.h
+END
+akae2440.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/akae2440.h
+END
+PM826.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PM826.h
+END
+TQM855M.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM855M.h
+END
+netstar.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/netstar.h
+END
+A3000.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/A3000.h
+END
+evb4510.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/evb4510.h
+END
+MBX.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MBX.h
+END
+OXC.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/OXC.h
+END
+Total5200.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/Total5200.h
+END
+MPC8560ADS.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC8560ADS.h
+END
+xaeniax.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/xaeniax.h
+END
+integratorap.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/integratorap.h
+END
+spc1920.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/spc1920.h
+END
+TQM850M.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM850M.h
+END
+cm4008.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/cm4008.h
+END
+TB5200.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TB5200.h
+END
+CPC45.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CPC45.h
+END
+QS850.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/QS850.h
+END
+MPC8349EMDS.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC8349EMDS.h
+END
+JSE.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/JSE.h
+END
+Sandpoint8245.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/Sandpoint8245.h
+END
+assabet.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/assabet.h
+END
+cm41xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/cm41xx.h
+END
+CPCI2DP.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CPCI2DP.h
+END
+TASREG.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TASREG.h
+END
+sbc8260.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/sbc8260.h
+END
+DK1S10_standard_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DK1S10_standard_32.h
+END
+SPD823TS.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/SPD823TS.h
+END
+ML2.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ML2.h
+END
+MPC8541CDS.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC8541CDS.h
+END
+ixdp425.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ixdp425.h
+END
+PK1C20.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PK1C20.h
+END
+TOP860.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TOP860.h
+END
+incaip.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/incaip.h
+END
+PCI405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PCI405.h
+END
+sequoia.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/sequoia.h
+END
+OCRTC.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/OCRTC.h
+END
+ZUMA.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ZUMA.h
+END
+logodl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/logodl.h
+END
+lubbock.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/lubbock.h
+END
+tb0229.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/tb0229.h
+END
+RPXlite.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/RPXlite.h
+END
+omap730p2.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/omap730p2.h
+END
+RPXsuper.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/RPXsuper.h
+END
+delta.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/delta.h
+END
+EP1C20.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/EP1C20.h
+END
+adsvix.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/adsvix.h
+END
+IPHASE4539.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/IPHASE4539.h
+END
+TQM85xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM85xx.h
+END
+CPCI405DT.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CPCI405DT.h
+END
+B2.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/B2.h
+END
+rmu.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/rmu.h
+END
+utx8245.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/utx8245.h
+END
+smdk2410.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/smdk2410.h
+END
+HUB405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/HUB405.h
+END
+wepep250.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/wepep250.h
+END
+ISPAN.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ISPAN.h
+END
+TQM860L.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM860L.h
+END
+rsdproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/rsdproto.h
+END
+mx1fs2.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/mx1fs2.h
+END
+ep7312.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ep7312.h
+END
+BMW.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/BMW.h
+END
+barco.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/barco.h
+END
+PPChameleonEVB.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PPChameleonEVB.h
+END
+versatile.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/versatile.h
+END
+yosemite.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/yosemite.h
+END
+lpd7a404.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/lpd7a404.h
+END
+AP1000.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/AP1000.h
+END
+smmaco4.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/smmaco4.h
+END
+ASH405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ASH405.h
+END
+gth2.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/gth2.h
+END
+MBX860T.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MBX860T.h
+END
+walnut.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/walnut.h
+END
+ebony.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ebony.h
+END
+MPC86xADS.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC86xADS.h
+END
+Rattler.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/Rattler.h
+END
+MIP405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MIP405.h
+END
+PM828.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PM828.h
+END
+inka4x0.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/inka4x0.h
+END
+ppmc8260.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ppmc8260.h
+END
+Yukon8220.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/Yukon8220.h
+END
+ERIC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ERIC.h
+END
+dbau1x00.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/dbau1x00.h
+END
+NETVIA.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/NETVIA.h
+END
+MPC8540ADS.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC8540ADS.h
+END
+SBC8540.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/SBC8540.h
+END
+PLU405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PLU405.h
+END
+cradle.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/cradle.h
+END
+ml300.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ml300.h
+END
+h2_p2_dbg_board.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/h2_p2_dbg_board.h
+END
+PATI.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PATI.h
+END
+R360MPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/R360MPI.h
+END
+CCM.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CCM.h
+END
+MPC8548CDS.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC8548CDS.h
+END
+M5272C3.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/M5272C3.h
+END
+lart.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/lart.h
+END
+IDS8247.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/IDS8247.h
+END
+cobra5272.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/cobra5272.h
+END
+cerf250.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/cerf250.h
+END
+IP860.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/IP860.h
+END
+omap1510inn.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/omap1510inn.h
+END
+M5271EVB.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/M5271EVB.h
+END
+CPCI405AB.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CPCI405AB.h
+END
+TQM860M.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM860M.h
+END
+EP88x.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/EP88x.h
+END
+PM854.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PM854.h
+END
+HMI10.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/HMI10.h
+END
+v37.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/v37.h
+END
+sc520_cdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/sc520_cdp.h
+END
+SCM.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/SCM.h
+END
+NX823.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/NX823.h
+END
+ESTEEM192E.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ESTEEM192E.h
+END
+dnp1110.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/dnp1110.h
+END
+stamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/stamp.h
+END
+DK1S10_mtx_ldk_20.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DK1S10_mtx_ldk_20.h
+END
+NETTA2.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/NETTA2.h
+END
+mx1ads.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/mx1ads.h
+END
+FADS860T.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/FADS860T.h
+END
+luan.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/luan.h
+END
+sbc405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/sbc405.h
+END
+BC3450.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/BC3450.h
+END
+csb472.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/csb472.h
+END
+CU824.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CU824.h
+END
+CPCI405.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CPCI405.h
+END
+mp2usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/mp2usb.h
+END
+KUP4X.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/KUP4X.h
+END
+W7OLMG.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/W7OLMG.h
+END
+pxa255_idp.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/pxa255_idp.h
+END
+RPXlite_DW.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/RPXlite_DW.h
+END
+suzaku.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/suzaku.h
+END
+EB+MCF-EV123.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/EB+MCF-EV123.h
+END
+MVS1.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MVS1.h
+END
+PCI5441.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PCI5441.h
+END
+NC650.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/NC650.h
+END
+AR405.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/AR405.h
+END
+csb226.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/csb226.h
+END
+integratorcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/integratorcp.h
+END
+svm_sc8xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/svm_sc8xx.h
+END
+omap1510.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/omap1510.h
+END
+PCIPPC6.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PCIPPC6.h
+END
+ixdpg425.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ixdpg425.h
+END
+akae2410.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/akae2410.h
+END
+CMS700.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CMS700.h
+END
+CPCI750.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CPCI750.h
+END
+MPC8641HPCN.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC8641HPCN.h
+END
+xm250.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/xm250.h
+END
+sc520_spunk.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/sc520_spunk.h
+END
+cmi_mpc5xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/cmi_mpc5xx.h
+END
+Sandpoint8240.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/Sandpoint8240.h
+END
+DASA_SIM.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DASA_SIM.h
+END
+TQM866M.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM866M.h
+END
+V38B.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/V38B.h
+END
+omap730.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/omap730.h
+END
+sorcery.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/sorcery.h
+END
+DK1C20_safe_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DK1C20_safe_32.h
+END
+DB64360.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DB64360.h
+END
+stxgp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/stxgp3.h
+END
+gw8260.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/gw8260.h
+END
+DU405.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/DU405.h
+END
+ELPT860.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ELPT860.h
+END
+PM520.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PM520.h
+END
+CPU86.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CPU86.h
+END
+CPCI440.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CPCI440.h
+END
+at91rm9200dk.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/at91rm9200dk.h
+END
+purple.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/purple.h
+END
+MPC8540EVAL.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC8540EVAL.h
+END
+NSCU.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/NSCU.h
+END
+ocotea.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ocotea.h
+END
+aev.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/aev.h
+END
+AMX860.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/AMX860.h
+END
+virtlab2.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/virtlab2.h
+END
+o2dnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/o2dnt.h
+END
+KAREF.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/KAREF.h
+END
+p3p440.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/p3p440.h
+END
+VOM405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/VOM405.h
+END
+APC405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/APC405.h
+END
+bamboo.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/bamboo.h
+END
+spieval.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/spieval.h
+END
+ADS860.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ADS860.h
+END
+sbc2410x.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/sbc2410x.h
+END
+SXNI855T.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/SXNI855T.h
+END
+bubinga.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/bubinga.h
+END
+CATcenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/CATcenter.h
+END
+lpd7a400-10.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/lpd7a400-10.h
+END
+RRvision.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/RRvision.h
+END
+MUSENKI.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MUSENKI.h
+END
+MOUSSE.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MOUSSE.h
+END
+EP1S40.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/EP1S40.h
+END
+TQM862L.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/TQM862L.h
+END
+PM856.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PM856.h
+END
+ICU862.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ICU862.h
+END
+PIP405.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/PIP405.h
+END
+MHPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MHPC.h
+END
+trab.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/trab.h
+END
+ep8248.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/ep8248.h
+END
+MPC8266ADS.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/MPC8266ADS.h
+END
+gcplus.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/gcplus.h
+END
+stxxtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/stxxtc.h
+END
+omap1610h2.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/configs/omap1610h2.h
+END

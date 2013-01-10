@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/canmb
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/canmb/u-boot.lds
+END
+mt48lc16m32s2-75.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/canmb/mt48lc16m32s2-75.h
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/canmb/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/canmb/Makefile
+END
+canmb.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/canmb/canmb.c
+END

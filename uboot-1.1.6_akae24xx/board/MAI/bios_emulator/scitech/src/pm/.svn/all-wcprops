@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm
+END
+pmqnx.vpj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/pmqnx.vpj
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/event.c
+END
+oshdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/oshdr.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/debug.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/common.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/makefile
+END
+pmdos.vpj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/pmdos.vpj
+END
+pmcommon.vpj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/pmcommon.vpj
+END
+cpuinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/cpuinfo.c
+END
+pm.vpw
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/pm.vpw
+END
+pmntdrv.vpj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/pmntdrv.vpj
+END
+pmlinux.vpj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/pmlinux.vpj
+END
+z_samples.vpj
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/z_samples.vpj
+END
+ztimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/ztimer.c
+END
+pmvxd.vpj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/pmvxd.vpj
+END
+pmwin32.vpj
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/pmwin32.vpj
+END

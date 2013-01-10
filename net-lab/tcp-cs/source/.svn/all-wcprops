@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/145/trunk/net-lab/tcp-cs/source
+END
+server1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/net-lab/tcp-cs/source/server1.c
+END
+server2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/server2.c
+END
+server3.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/server3.c
+END
+server4.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/server4.c
+END
+server5.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/server5.c
+END
+server6.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/server6.c
+END
+server7.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/server7.c
+END
+server8.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/server8.c
+END
+client1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/107/trunk/net-lab/tcp-cs/source/client1.c
+END
+client2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/client2.c
+END
+client3.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/client3.c
+END
+client4.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/client4.c
+END
+client5.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/client5.c
+END
+client6.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/client6.c
+END
+client7.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/client7.c
+END
+client8.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/86/trunk/net-lab/tcp-cs/source/client8.c
+END

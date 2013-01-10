@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/120/trunk/framebuffer/liberror
+END
+text.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/120/trunk/framebuffer/liberror/text.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/120/trunk/framebuffer/liberror/main.c
+END
+jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/120/trunk/framebuffer/liberror/jpeg.c
+END
+draw_picture.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/120/trunk/framebuffer/liberror/draw_picture.c
+END
+init_framebuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/120/trunk/framebuffer/liberror/init_framebuf.c
+END
+printdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/120/trunk/framebuffer/liberror/printdir.c
+END
+jpg_inf.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/120/trunk/framebuffer/liberror/jpg_inf.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/120/trunk/framebuffer/liberror/Makefile
+END
+comm.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/120/trunk/framebuffer/liberror/comm.h
+END
+3.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/120/trunk/framebuffer/liberror/3.jpg
+END

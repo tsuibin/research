@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue
+END
+msgrcv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue/msgrcv.cc
+END
+messageQueues.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue/messageQueues.txt
+END
+msgget.cc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue/msgget.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue/Makefile
+END
+mr
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue/mr
+END
+ms
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue/ms
+END
+mc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue/mc
+END
+msgsnd.cc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue/msgsnd.cc
+END
+msgctrl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue/msgctrl.cc
+END
+mkfifo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue/mkfifo.cc
+END
+mg
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/129/trunk/uc/uc3/msgqueue/mg
+END

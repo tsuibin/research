@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/134/trunk/qtapps/Mp3Player
+END
+Mp3Player.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/134/trunk/qtapps/Mp3Player/Mp3Player.pro
+END
+mp3player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/134/trunk/qtapps/Mp3Player/mp3player.cpp
+END
+mp3player.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/134/trunk/qtapps/Mp3Player/mp3player.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/134/trunk/qtapps/Mp3Player/main.cpp
+END
+mp3player.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/134/trunk/qtapps/Mp3Player/mp3player.ui
+END

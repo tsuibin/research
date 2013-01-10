@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/97/trunk/sqlite
+END
+test.db
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/41/trunk/sqlite/test.db
+END
+sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/39/trunk/sqlite/sqlite3.c
+END
+testsqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/44/trunk/sqlite/testsqlite3.c
+END
+student.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/97/trunk/sqlite/student.c
+END
+shell.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/39/trunk/sqlite/shell.c
+END
+student.db
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/97/trunk/sqlite/student.db
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/39/trunk/sqlite/sqlite3.h
+END

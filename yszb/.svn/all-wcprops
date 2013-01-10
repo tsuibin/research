@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/145/trunk/yszb
+END
+mod.ko
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/79/trunk/yszb/mod.ko
+END
+.mod.ko.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/79/trunk/yszb/.mod.ko.cmd
+END
+.mod.mod.o.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/79/trunk/yszb/.mod.mod.o.cmd
+END
+Module.symvers
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/79/trunk/yszb/Module.symvers
+END
+.mod.o.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/79/trunk/yszb/.mod.o.cmd
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/145/trunk/yszb/Makefile
+END
+mod.mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/79/trunk/yszb/mod.mod.c
+END
+mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/79/trunk/yszb/mod.c
+END
+modules.order
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/79/trunk/yszb/modules.order
+END

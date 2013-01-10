@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/ixp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/ixp/Makefile
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/ixp/start.S
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/ixp/serial.c
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/ixp/interrupts.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/ixp/timer.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/ixp/cpu.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/ixp/config.mk
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/ixp/pci.c
+END

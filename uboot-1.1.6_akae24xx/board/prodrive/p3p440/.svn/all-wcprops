@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/p3p440
+END
+p3p440.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/p3p440/p3p440.h
+END
+init.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/p3p440/init.S
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/p3p440/u-boot.lds
+END
+p3p440.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/p3p440/p3p440.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/p3p440/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/prodrive/p3p440/Makefile
+END

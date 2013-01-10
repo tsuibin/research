@@ -1,0 +1,1151 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/145/trunk/library/jpeg-8b
+END
+jconfig.mac
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.mac
+END
+structure.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/130/trunk/library/jpeg-8b/structure.txt
+END
+wizard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/wizard.txt
+END
+makedfil.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makedfil.v10
+END
+jmemansi.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jmemansi.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jerror.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdhuff.c
+END
+cjpeg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/145/trunk/library/jpeg-8b/cjpeg
+END
+rdrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/rdrle.c
+END
+filelist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/filelist.txt
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jerror.h
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/config.guess
+END
+makewvcx.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makewvcx.v10
+END
+testimg.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/testimg.jpg
+END
+transupp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/transupp.c
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdmerge.c
+END
+makefile.unix
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makefile.unix
+END
+makeasln.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makeasln.v10
+END
+maketfil.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/maketfil.v10
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcinit.c
+END
+transupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/transupp.h
+END
+makefile.sas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makefile.sas
+END
+makejdsw.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makejdsw.vc6
+END
+jconfig.mc6
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.mc6
+END
+makefile.wat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makefile.wat
+END
+makdjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makdjpeg.st
+END
+makefile.mms
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makefile.mms
+END
+wrjpgcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/wrjpgcom.c
+END
+djpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/djpeg.c
+END
+jpegtran
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/145/trunk/library/jpeg-8b/jpegtran
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdcolor.c
+END
+jconfig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.cfg
+END
+jmemdosa.asm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jmemdosa.asm
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcsample.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcmarker.c
+END
+makljpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makljpeg.st
+END
+makecfil.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makecfil.v10
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdmarker.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdsample.c
+END
+jconfig.manx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.manx
+END
+rdcolmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/rdcolmap.c
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jmorecfg.h
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jinclude.h
+END
+rdbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/rdbmp.c
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdtrans.c
+END
+wrppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/wrppm.c
+END
+cjpeg.1
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/cjpeg.1
+END
+maktjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/maktjpeg.st
+END
+wrtarga.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/wrtarga.c
+END
+makeadsw.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makeadsw.vc6
+END
+makewdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makewdep.vc6
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/library/jpeg-8b/stamp-h1
+END
+wrgif.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/wrgif.c
+END
+rdjpgcom.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/rdjpgcom.1
+END
+jaricom.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jaricom.c
+END
+makcjpeg.st
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makcjpeg.st
+END
+makedmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makedmak.vc6
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdpostct.c
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jccolor.c
+END
+testorig.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/testorig.jpg
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jctrans.c
+END
+makeddsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makeddsp.vc6
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/145/trunk/library/jpeg-8b/config.log
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jchuff.c
+END
+ansi2knr.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/ansi2knr.1
+END
+makejfil.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makejfil.v10
+END
+maketmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/maketmak.vc6
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/145/trunk/library/jpeg-8b/config.status
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jfdctfst.c
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcmaster.c
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdmaster.c
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jidctfst.c
+END
+makerfil.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makerfil.v10
+END
+maketdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/maketdsp.vc6
+END
+makecmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makecmak.vc6
+END
+jdarith.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdarith.c
+END
+makedvcx.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makedvcx.v10
+END
+cjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/cjpeg.c
+END
+makefile.dj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makefile.dj
+END
+jmemname.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jmemname.c
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdatasrc.c
+END
+makefile.manx
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makefile.manx
+END
+makefile.vms
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makefile.vms
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/configure
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcapistd.c
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdapistd.c
+END
+makecdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makecdsp.vc6
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jversion.h
+END
+rdjpgcom.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/rdjpgcom.c
+END
+maketvcx.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/maketvcx.v10
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/depcomp
+END
+makvms.opt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makvms.opt
+END
+coderules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/130/trunk/library/jpeg-8b/coderules.txt
+END
+jconfig.bcc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.bcc
+END
+jcarith.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcarith.c
+END
+makecvcx.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makecvcx.v10
+END
+makeddep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makeddep.vc6
+END
+makeproj.mac
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makeproj.mac
+END
+ansi2knr.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/ansi2knr.c
+END
+testimgp.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/testimgp.jpg
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/example.c
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/aclocal.m4
+END
+cdjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/library/jpeg-8b/cdjpeg.c
+END
+makejmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makejmak.vc6
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/install-sh
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdatadst.c
+END
+jmemdos.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jmemdos.c
+END
+cdjpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/library/jpeg-8b/cdjpeg.h
+END
+makermak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makermak.vc6
+END
+cderror.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/cderror.h
+END
+maketdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/maketdep.vc6
+END
+djpeg
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/145/trunk/library/jpeg-8b/djpeg
+END
+libjpeg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/libjpeg.txt
+END
+makejdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makejdsp.vc6
+END
+makefile.mc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makefile.mc6
+END
+rdppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/rdppm.c
+END
+makerdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makerdsp.vc6
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcomapi.c
+END
+jconfig.st
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.st
+END
+jconfig.sas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.sas
+END
+libtool
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/145/trunk/library/jpeg-8b/libtool
+END
+change.log
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/change.log
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.h
+END
+makecdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makecdep.vc6
+END
+testimg.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/testimg.ppm
+END
+rdswitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/rdswitch.c
+END
+jconfig.wat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.wat
+END
+jconfig.dj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.dj
+END
+wrrle.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/wrrle.c
+END
+rdgif.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/rdgif.c
+END
+makejvcx.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makejvcx.v10
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jfdctflt.c
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jidctflt.c
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makefile.vc
+END
+makervcx.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makervcx.v10
+END
+testimg.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/testimg.bmp
+END
+jmemmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jmemmac.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcprepct.c
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/ltmain.sh
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcparam.c
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jquant1.c
+END
+ckconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/ckconfig.c
+END
+makewfil.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makewfil.v10
+END
+makefile.ansi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makefile.ansi
+END
+wrbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/wrbmp.c
+END
+jpegtran.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jpegtran.1
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcmainct.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdmainct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcapimin.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdapimin.c
+END
+makejdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makejdep.vc6
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jcdctmgr.c
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jmemmgr.c
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jddctmgr.c
+END
+usage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/usage.txt
+END
+makerdep.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makerdep.vc6
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jpegint.h
+END
+wrjpgcom
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/145/trunk/library/jpeg-8b/wrjpgcom
+END
+libjpeg.map
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/libjpeg.map
+END
+jmemnobs.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jmemnobs.c
+END
+jconfig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.txt
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/config.sub
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdinput.c
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jpeglib.h
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/configure.ac
+END
+rdjpgcom
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/145/trunk/library/jpeg-8b/rdjpgcom
+END
+rdtarga.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/rdtarga.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/missing
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdct.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/145/trunk/library/jpeg-8b/Makefile
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jmemsys.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/Makefile.in
+END
+jconfig.vms
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.vms
+END
+install.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130/trunk/library/jpeg-8b/install.txt
+END
+testprog.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/testprog.jpg
+END
+jconfig.vc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jconfig.vc
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jfdctint.c
+END
+wrjpgcom.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/wrjpgcom.1
+END
+djpeg.1
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/library/jpeg-8b/djpeg.1
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jidctint.c
+END
+makewmak.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makewmak.vc6
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jutils.c
+END
+jpegtran.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jpegtran.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/130/trunk/library/jpeg-8b/README
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jdcoefct.c
+END
+makefile.bcc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makefile.bcc
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/130/trunk/library/jpeg-8b/jquant2.c
+END
+makewdsp.vc6
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makewdsp.vc6
+END
+makejsln.v10
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/130/trunk/library/jpeg-8b/makejsln.v10
+END

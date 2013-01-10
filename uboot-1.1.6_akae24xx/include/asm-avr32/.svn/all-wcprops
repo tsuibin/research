@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/io.h
+END
+sysreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/sysreg.h
+END
+ptrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/ptrace.h
+END
+processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/processor.h
+END
+initcalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/initcalls.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/errno.h
+END
+posix_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/posix_types.h
+END
+addrspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/addrspace.h
+END
+sections.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/sections.h
+END
+global_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/global_data.h
+END
+dma-mapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/dma-mapping.h
+END
+div64.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/div64.h
+END
+byteorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/byteorder.h
+END
+bitops.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/bitops.h
+END
+setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/setup.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/types.h
+END
+u-boot.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/u-boot.h
+END
+cacheflush.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/cacheflush.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/string.h
+END
+sdram.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-avr32/sdram.h
+END

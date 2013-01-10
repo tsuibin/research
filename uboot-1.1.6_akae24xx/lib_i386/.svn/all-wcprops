@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386
+END
+video_bios.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/video_bios.c
+END
+video.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/video.c
+END
+bios_pci.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/bios_pci.S
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/board.c
+END
+realmode.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/realmode.c
+END
+i386_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/i386_linux.c
+END
+realmode_switch.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/realmode_switch.S
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/pci.c
+END
+zimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/zimage.c
+END
+bios_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/bios_setup.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/Makefile
+END
+bios.S
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/bios.S
+END
+pci_type1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/pci_type1.c
+END
+bios.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_i386/bios.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/os2
+END
+ztimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/os2/ztimer.c
+END
+vflat.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/os2/vflat.c
+END
+pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/os2/pm.c
+END
+_pmos2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/os2/_pmos2.asm
+END
+mon.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/os2/mon.h
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/os2/event.c
+END
+cpuinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/os2/cpuinfo.c
+END
+dossctl.obj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/os2/dossctl.obj
+END
+oshdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/os2/oshdr.h
+END

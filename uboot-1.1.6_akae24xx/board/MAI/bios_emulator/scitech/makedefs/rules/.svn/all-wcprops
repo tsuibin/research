@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules
+END
+vc32.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/vc32.mk
+END
+gcc_win32.mk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/gcc_win32.mk
+END
+wc32.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/wc32.mk
+END
+vc16.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/vc16.mk
+END
+wc16.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/wc16.mk
+END
+gcc_freebsd.mk
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/gcc_freebsd.mk
+END
+qnxnto.mk
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/qnxnto.mk
+END
+bc32.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/bc32.mk
+END
+emx.mk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/emx.mk
+END
+qnx4.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/qnx4.mk
+END
+bc16.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/bc16.mk
+END
+hc32.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/hc32.mk
+END
+cl386.mk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/cl386.mk
+END
+dj32.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/dj32.mk
+END
+gcc_beos.mk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/gcc_beos.mk
+END
+va365.mk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/va365.mk
+END
+cl16.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/cl16.mk
+END
+bc3.mk
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/bc3.mk
+END
+bcos2.mk
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/bcos2.mk
+END
+sc32.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/sc32.mk
+END
+va32.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/va32.mk
+END
+gcc_linux.mk
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/gcc_linux.mk
+END
+sc16.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/makedefs/rules/sc16.mk
+END

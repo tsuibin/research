@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/memory.c
+END
+intel_flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/intel_flash.c
+END
+bootseq.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/bootseq.txt
+END
+ecctest.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/ecctest.c
+END
+misc.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/misc.S
+END
+ppc_error_no.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/ppc_error_no.h
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/i2c.c
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/flash.c
+END
+intel_flash.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/intel_flash.h
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/serial.c
+END
+ns16550.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/ns16550.c
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/i2c.h
+END
+serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/serial.h
+END
+ns16550.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/Marvell/common/ns16550.h
+END

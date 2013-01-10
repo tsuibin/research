@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/125/trunk/qtapps/querymodel
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/125/trunk/qtapps/querymodel/main.cpp
+END
+connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/125/trunk/qtapps/querymodel/connection.h
+END
+querymodel.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/125/trunk/qtapps/querymodel/querymodel.pro
+END
+querymodel
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/125/trunk/qtapps/querymodel/querymodel
+END
+editablesqlmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/125/trunk/qtapps/querymodel/editablesqlmodel.cpp
+END
+customsqlmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/125/trunk/qtapps/querymodel/customsqlmodel.cpp
+END
+editablesqlmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/125/trunk/qtapps/querymodel/editablesqlmodel.h
+END
+customsqlmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/125/trunk/qtapps/querymodel/customsqlmodel.h
+END
+querymodel.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/125/trunk/qtapps/querymodel/querymodel.pro.user
+END

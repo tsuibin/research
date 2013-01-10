@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/microblaze
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/microblaze/cpu.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/microblaze/Makefile
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/microblaze/start.S
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/microblaze/interrupts.c
+END

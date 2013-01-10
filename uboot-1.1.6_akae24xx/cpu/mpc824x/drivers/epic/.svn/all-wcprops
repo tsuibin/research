@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/mpc824x/drivers/epic
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/mpc824x/drivers/epic/README
+END
+epicutil.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/mpc824x/drivers/epic/epicutil.S
+END
+epic1.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/mpc824x/drivers/epic/epic1.c
+END
+epic2.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/mpc824x/drivers/epic/epic2.S
+END
+epic.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/mpc824x/drivers/epic/epic.h
+END

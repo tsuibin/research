@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap
+END
+pio.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/pio.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/cpu.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/Makefile
+END
+exception.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/exception.c
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/device.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/cache.c
+END
+hsdramc1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/hsdramc1.h
+END
+pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/pm.c
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/start.S
+END
+pio2.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/pio2.h
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/interrupts.c
+END
+hsdramc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/hsdramc.c
+END
+entry.S
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/entry.S
+END
+hsmc3.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/hsmc3.h
+END
+sm.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/cpu/at32ap/sm.h
+END

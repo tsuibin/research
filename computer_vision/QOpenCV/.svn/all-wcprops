@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/117/trunk/computer_vision/QOpenCV
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/115/trunk/computer_vision/QOpenCV/Makefile
+END
+videocollector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/117/trunk/computer_vision/QOpenCV/videocollector.cpp
+END
+qcameradevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/114/trunk/computer_vision/QOpenCV/qcameradevice.h
+END
+tcpthread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/114/trunk/computer_vision/QOpenCV/tcpthread.cpp
+END
+dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/114/trunk/computer_vision/QOpenCV/dialog.cpp
+END
+videocollector.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/115/trunk/computer_vision/QOpenCV/videocollector.h
+END
+tcpthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/114/trunk/computer_vision/QOpenCV/tcpthread.h
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/114/trunk/computer_vision/QOpenCV/dialog.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/117/trunk/computer_vision/QOpenCV/main.cpp
+END
+QOpenCV.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/116/trunk/computer_vision/QOpenCV/QOpenCV.pro.user
+END
+QOpenCV.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/115/trunk/computer_vision/QOpenCV/QOpenCV.pro
+END
+qcameradevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/115/trunk/computer_vision/QOpenCV/qcameradevice.cpp
+END
+dialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/114/trunk/computer_vision/QOpenCV/dialog.ui
+END

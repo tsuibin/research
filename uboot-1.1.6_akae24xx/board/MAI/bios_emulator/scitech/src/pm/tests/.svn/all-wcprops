@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests
+END
+uswc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/uswc.c
+END
+biosptr.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/biosptr.c
+END
+restore.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/restore.c
+END
+timerc.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/timerc.c
+END
+timercpp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/timercpp.cpp
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/cpu.c
+END
+key.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/key.c
+END
+mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/mouse.c
+END
+rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/rtc.c
+END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/block.c
+END
+isvesa.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/isvesa.c
+END
+tick.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/tick.c
+END
+critical.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/critical.c
+END
+getch.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/getch.c
+END
+key15.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/key15.c
+END
+save.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/save.c
+END
+checks.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/checks.c
+END
+altcrit.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/altcrit.c
+END
+video.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/video.c
+END
+vftest.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/vftest.c
+END
+showpci.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/showpci.c
+END
+brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/brk.c
+END
+memtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/memtest.c
+END
+altbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/altbrk.c
+END
+callreal.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/pm/tests/callreal.c
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-arm/arch-imx
+END
+imx-regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-arm/arch-imx/imx-regs.h
+END

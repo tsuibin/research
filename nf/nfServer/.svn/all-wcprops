@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/115/trunk/nf/nfServer
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/115/trunk/nf/nfServer/main.cpp
+END
+clientthread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/115/trunk/nf/nfServer/clientthread.cpp
+END
+nfServer.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/115/trunk/nf/nfServer/nfServer.pro
+END
+nfserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/115/trunk/nf/nfServer/nfserver.cpp
+END
+clientthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/115/trunk/nf/nfServer/clientthread.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/111/trunk/nf/nfServer/Makefile
+END
+nfserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/115/trunk/nf/nfServer/nfserver.h
+END

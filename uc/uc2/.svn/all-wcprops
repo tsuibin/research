@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/126/trunk/uc/uc2
+END
+system.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/uc/uc2/system.cc
+END
+exithandlers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/126/trunk/uc/uc2/exithandlers.cc
+END
+execvp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/uc/uc2/execvp.cc
+END
+history.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/126/trunk/uc/uc2/history.txt
+END
+time.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/126/trunk/uc/uc2/time.cc
+END
+fork.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/126/trunk/uc/uc2/fork.cc
+END
+gethostname.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/126/trunk/uc/uc2/gethostname.txt
+END
+localtime.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/126/trunk/uc/uc2/localtime.cc
+END
+exit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/126/trunk/uc/uc2/exit.cc
+END
+h_wait.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/uc/uc2/h_wait.cc
+END
+hostname.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/126/trunk/uc/uc2/hostname.cc
+END
+bye.cc
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/126/trunk/uc/uc2/bye.cc
+END
+wifexit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/126/trunk/uc/uc2/wifexit.cc
+END
+exec.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/126/trunk/uc/uc2/exec.cc
+END
+h_execlp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/126/trunk/uc/uc2/h_execlp.cc
+END
+cf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/126/trunk/uc/uc2/cf.cc
+END
+process_space.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/126/trunk/uc/uc2/process_space.cc
+END
+fork.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/126/trunk/uc/uc2/fork.txt
+END
+today
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/126/trunk/uc/uc2/today
+END
+hostwork
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/126/trunk/uc/uc2/hostwork
+END
+log
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/126/trunk/uc/uc2/log
+END
+atexit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/uc/uc2/atexit.cc
+END
+destructor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/126/trunk/uc/uc2/destructor.cc
+END
+wait.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/126/trunk/uc/uc2/wait.txt
+END
+wait.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/126/trunk/uc/uc2/wait.cc
+END
+h_fork.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/uc/uc2/h_fork.cc
+END
+cmdline.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/126/trunk/uc/uc2/cmdline.cc
+END
+utsname.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/126/trunk/uc/uc2/utsname.cc
+END
+pid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/126/trunk/uc/uc2/pid.cc
+END
+test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/126/trunk/uc/uc2/test.cc
+END
+execlp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/uc/uc2/execlp.cc
+END
+stime.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/126/trunk/uc/uc2/stime.cc
+END

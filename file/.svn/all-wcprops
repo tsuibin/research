@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/148/trunk/file
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/68/trunk/file/test
+END
+iostream.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/68/trunk/file/iostream.c
+END
+mycp.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/148/trunk/file/mycp.c
+END

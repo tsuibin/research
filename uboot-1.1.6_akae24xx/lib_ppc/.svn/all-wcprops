@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_ppc
+END
+ticks.S
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_ppc/ticks.S
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_ppc/time.c
+END
+bat_rw.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_ppc/bat_rw.c
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_ppc/interrupts.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_ppc/cache.c
+END
+extable.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_ppc/extable.c
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_ppc/board.c
+END
+kgdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_ppc/kgdb.c
+END
+ppcstring.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_ppc/ppcstring.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/lib_ppc/Makefile
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios
+END
+v86bios.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/v86bios.c
+END
+lex.l
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/lex.l
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/console.c
+END
+v86bios.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/v86bios.h
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/io.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/pci.c
+END
+working_cards
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/working_cards
+END
+happy_cards
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/happy_cards
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/README
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/mem.c
+END
+command.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/command.c
+END
+pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/pci.h
+END
+parser.y
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/parser.y
+END
+v86.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/v86.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/main.c
+END
+awk.scr
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/awk.scr
+END
+hexdump
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/hexdump
+END
+makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/makefile.linux
+END
+AsmMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/AsmMacros.h
+END
+int.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/int.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/debug.h
+END
+x86emu.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/x86emu.c
+END
+cbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/src/v86bios/cbios.c
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common
+END
+s1d13704_320_240_4bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/s1d13704_320_240_4bpp.h
+END
+s1d13806_640_480_16bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/s1d13806_640_480_16bpp.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/misc.c
+END
+s1d13806_320_240_4bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/s1d13806_320_240_4bpp.h
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/flash.c
+END
+s1d13705_320_240_8bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/s1d13705_320_240_8bpp.h
+END
+cmd_loadpci.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/cmd_loadpci.c
+END
+s1d13806_1024_768_8bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/s1d13806_1024_768_8bpp.h
+END
+lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/lcd.c
+END
+lcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/lcd.h
+END
+auto_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/auto_update.c
+END
+s1d13806_640_480_8bpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/s1d13806_640_480_8bpp.h
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/pci.c
+END
+fpga.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/fpga.c
+END
+auto_update.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/common/auto_update.h
+END

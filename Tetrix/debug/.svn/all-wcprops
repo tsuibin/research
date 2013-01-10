@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/117/trunk/Tetrix/debug
+END
+moveDown.wav
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/117/trunk/Tetrix/debug/moveDown.wav
+END
+box.gif
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/117/trunk/Tetrix/debug/box.gif
+END
+moveLeft.wav
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/117/trunk/Tetrix/debug/moveLeft.wav
+END
+Tetrix.exe
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/117/trunk/Tetrix/debug/Tetrix.exe
+END
+changeItem.wav
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/117/trunk/Tetrix/debug/changeItem.wav
+END
+moc_gamearea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/117/trunk/Tetrix/debug/moc_gamearea.cpp
+END
+moc_widget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/117/trunk/Tetrix/debug/moc_widget.cpp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/116/trunk/vs/vsServer
+END
+QOpenCVWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/115/trunk/vs/vsServer/QOpenCVWidget.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/113/trunk/vs/vsServer/main.cpp
+END
+MyCameraWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/116/trunk/vs/vsServer/MyCameraWindow.cpp
+END
+vsServer.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/116/trunk/vs/vsServer/vsServer.pro.user
+END
+MyCameraWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/113/trunk/vs/vsServer/MyCameraWindow.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/115/trunk/vs/vsServer/Makefile
+END
+vsServer.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/115/trunk/vs/vsServer/vsServer.pro
+END
+QOpenCVWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/116/trunk/vs/vsServer/QOpenCVWidget.cpp
+END

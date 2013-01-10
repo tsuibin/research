@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/86/trunk/net-lab/udp-cs/source
+END
+udpclient1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/86/trunk/net-lab/udp-cs/source/udpclient1.c
+END
+udpclient2.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/86/trunk/net-lab/udp-cs/source/udpclient2.c
+END
+udpclient3.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/86/trunk/net-lab/udp-cs/source/udpclient3.c
+END
+udpserver1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/86/trunk/net-lab/udp-cs/source/udpserver1.c
+END
+udpserver2.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/86/trunk/net-lab/udp-cs/source/udpserver2.c
+END
+udpserver3.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/86/trunk/net-lab/udp-cs/source/udpserver3.c
+END

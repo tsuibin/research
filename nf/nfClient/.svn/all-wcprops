@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/115/trunk/nf/nfClient
+END
+dialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/115/trunk/nf/nfClient/dialog.cpp
+END
+nfClient.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/111/trunk/nf/nfClient/nfClient.pro
+END
+nfclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/115/trunk/nf/nfClient/nfclient.cpp
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/115/trunk/nf/nfClient/dialog.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/111/trunk/nf/nfClient/main.cpp
+END
+nfclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/115/trunk/nf/nfClient/nfclient.h
+END
+dialog.ui
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/115/trunk/nf/nfClient/dialog.ui
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/111/trunk/nf/nfClient/Makefile
+END

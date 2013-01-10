@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/144/trunk/qtapps/qdebug
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/144/trunk/qtapps/qdebug/Makefile
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/144/trunk/qtapps/qdebug/main.c
+END
+qdebug.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/144/trunk/qtapps/qdebug/qdebug.pro
+END

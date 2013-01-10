@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/116/trunk/ManaChat/ManaChatServer
+END
+manachatserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/116/trunk/ManaChat/ManaChatServer/manachatserver.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/116/trunk/ManaChat/ManaChatServer/Makefile
+END
+ManaChatServer.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/116/trunk/ManaChat/ManaChatServer/ManaChatServer.pro
+END
+manachatserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/116/trunk/ManaChat/ManaChatServer/manachatserver.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/116/trunk/ManaChat/ManaChatServer/main.cpp
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc
+END
+ds1556.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/ds1556.c
+END
+m41t11.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/m41t11.c
+END
+mpc8xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/mpc8xx.c
+END
+ds164x.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/ds164x.c
+END
+ds174x.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/ds174x.c
+END
+bf533_rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/bf533_rtc.c
+END
+mc146818.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/mc146818.c
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/.depend
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/Makefile
+END
+m48t35ax.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/m48t35ax.c
+END
+pcf8563.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/pcf8563.c
+END
+max6900.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/max6900.c
+END
+rs5c372.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/rs5c372.c
+END
+ds1302.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/ds1302.c
+END
+mpc5xxx.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/mpc5xxx.c
+END
+date.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/date.c
+END
+s3c24x0_rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/s3c24x0_rtc.c
+END
+ds1306.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/ds1306.c
+END
+ds12887.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/ds12887.c
+END
+ds1307.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/ds1307.c
+END
+ds1337.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/ds1337.c
+END
+ds1374.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/ds1374.c
+END
+mk48t59.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/rtc/mk48t59.c
+END

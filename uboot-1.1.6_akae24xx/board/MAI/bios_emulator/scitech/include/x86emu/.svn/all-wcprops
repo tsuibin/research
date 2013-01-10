@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/include/x86emu
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/include/x86emu/types.h
+END
+fpu_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/include/x86emu/fpu_regs.h
+END
+regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/MAI/bios_emulator/scitech/include/x86emu/regs.h
+END

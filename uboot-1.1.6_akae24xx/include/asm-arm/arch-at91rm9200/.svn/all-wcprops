@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-arm/arch-at91rm9200
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-arm/arch-at91rm9200/hardware.h
+END
+AT91RM9200.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-arm/arch-at91rm9200/AT91RM9200.h
+END

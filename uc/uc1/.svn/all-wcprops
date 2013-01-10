@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/145/trunk/uc/uc1
+END
+putenv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/uc/uc1/putenv.cc
+END
+rw.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/126/trunk/uc/uc1/rw.txt
+END
+uc
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/126/trunk/uc/uc1/uc
+END
+getenv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/126/trunk/uc/uc1/getenv.cpp
+END
+read_write.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/126/trunk/uc/uc1/read_write.cc
+END
+euid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/126/trunk/uc/uc1/euid.cc
+END
+getenv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/uc/uc1/getenv.cc
+END
+access.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/126/trunk/uc/uc1/access.txt
+END
+dir_operate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/126/trunk/uc/uc1/dir_operate.cc
+END
+lseek.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/126/trunk/uc/uc1/lseek.cc
+END
+mkdir.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/126/trunk/uc/uc1/mkdir.cc
+END
+read_write_lseek.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/126/trunk/uc/uc1/read_write_lseek.cc
+END
+perror.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/uc/uc1/perror.cc
+END
+stat.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/126/trunk/uc/uc1/stat.cc
+END
+getcwd.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/126/trunk/uc/uc1/getcwd.cc
+END
+dir.cc
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/145/trunk/uc/uc1/dir.cc
+END

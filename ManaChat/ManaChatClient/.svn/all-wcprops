@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/116/trunk/ManaChat/ManaChatClient
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/116/trunk/ManaChat/ManaChatClient/main.cpp
+END
+ManaChatClient.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/116/trunk/ManaChat/ManaChatClient/ManaChatClient.pro
+END
+manachatclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/116/trunk/ManaChat/ManaChatClient/manachatclient.cpp
+END
+manachatclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/116/trunk/ManaChat/ManaChatClient/manachatclient.h
+END

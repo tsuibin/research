@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/117/trunk/computer_vision
+END
+computer_vision.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/112/trunk/computer_vision/computer_vision.pro
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/112/trunk/computer_vision/main.c
+END
+make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/112/trunk/computer_vision/make.sh
+END
+video.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/112/trunk/computer_vision/video.cpp
+END
+video.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/112/trunk/computer_vision/video.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/112/trunk/computer_vision/Makefile
+END
+cam.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/112/trunk/computer_vision/cam.c
+END
+computer_vision.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/112/trunk/computer_vision/computer_vision.pro.user
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/145/trunk/qtapps/ManaChat
+END
+moc_manachatserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/moc_manachatserver.cpp
+END
+manachatserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/manachatserver.cpp
+END
+ManaChatClient.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/ManaChatClient.pro.user
+END
+ManaChat.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/ManaChat.pro.user
+END
+manachatserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/manachatserver.h
+END
+moc_manachatclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/moc_manachatclient.cpp
+END
+manachatclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/manachatclient.cpp
+END
+manachatclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/manachatclient.h
+END
+moc_manacollector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/moc_manacollector.cpp
+END
+manacollector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/manacollector.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/main.cpp
+END
+manacollector.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/manacollector.h
+END
+ManaChat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/ManaChat.pro
+END
+ManaChat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/144/trunk/qtapps/ManaChat/ManaChat
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/145/trunk/qtapps/ManaChat/Makefile
+END

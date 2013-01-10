@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/xilinx/xilinx_iic
+END
+xiic_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/xilinx/xilinx_iic/xiic_l.c
+END
+xiic_l.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/xilinx/xilinx_iic/xiic_l.h
+END
+iic_adapter.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/xilinx/xilinx_iic/iic_adapter.c
+END

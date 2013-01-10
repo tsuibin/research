@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/145/trunk/armboard/2-uart-c
+END
+led.axf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/145/trunk/armboard/2-uart-c/led.axf
+END
+led.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/145/trunk/armboard/2-uart-c/led.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/145/trunk/armboard/2-uart-c/Makefile
+END
+start.s
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/145/trunk/armboard/2-uart-c/start.s
+END

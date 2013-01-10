@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/104/trunk/framebuffer/jpeg/both/jpegs-0.1
+END
+search_img.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/104/trunk/framebuffer/jpeg/both/jpegs-0.1/search_img.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/103/trunk/framebuffer/jpeg/both/jpegs-0.1/main.c
+END
+jpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/103/trunk/framebuffer/jpeg/both/jpegs-0.1/jpeg.c
+END
+fb.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/104/trunk/framebuffer/jpeg/both/jpegs-0.1/fb.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/103/trunk/framebuffer/jpeg/both/jpegs-0.1/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/104/trunk/framebuffer/jpeg/both/jpegs-0.1/common.h
+END
+lsfile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/103/trunk/framebuffer/jpeg/both/jpegs-0.1/lsfile
+END
+style.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/103/trunk/framebuffer/jpeg/both/jpegs-0.1/style.c
+END

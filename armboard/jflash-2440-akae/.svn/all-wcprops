@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae
+END
+k9s1208.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/k9s1208.h
+END
+Jflash-s3c2440
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/Jflash-s3c2440
+END
+sjf.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/sjf.h
+END
+jtag.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/jtag.h
+END
+u-boot.bin
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/u-boot.bin
+END
+u-boot.bin.akae
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/u-boot.bin.akae
+END
+vivi
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/vivi
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/Makefile
+END
+Y.bin
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/Y.bin
+END
+YL2440A_MON.bin
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/YL2440A_MON.bin
+END
+pin2440.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/pin2440.c
+END
+def.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/def.h
+END
+ppt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/ppt.c
+END
+pin2440.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/pin2440.h
+END
+vivi-tftp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/vivi-tftp
+END
+ppt.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/ppt.h
+END
+k9s1208.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/k9s1208.c
+END
+sjf.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/sjf.c
+END
+u-boot
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/u-boot
+END
+jtag.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/145/trunk/armboard/jflash-2440-akae/jtag.c
+END

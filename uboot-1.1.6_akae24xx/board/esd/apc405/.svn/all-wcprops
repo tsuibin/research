@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/apc405
+END
+fpgadata.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/apc405/fpgadata.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/apc405/config.mk
+END
+logo_640_480_24bpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/apc405/logo_640_480_24bpp.c
+END
+apc405.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/apc405/apc405.c
+END
+strataflash.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/apc405/strataflash.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/apc405/Makefile
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/esd/apc405/u-boot.lds
+END

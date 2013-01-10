@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/kup/common
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/kup/common/flash.c
+END
+kup.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/kup/common/kup.c
+END
+load_sernum_ethaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/kup/common/load_sernum_ethaddr.c
+END
+kup.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/kup/common/kup.h
+END
+pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/board/kup/common/pcmcia.c
+END

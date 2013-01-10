@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/131/trunk/signal
+END
+sigwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/118/trunk/signal/sigwait.c
+END
+sigthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/119/trunk/signal/sigthread.c
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/68/trunk/signal/signal.c
+END

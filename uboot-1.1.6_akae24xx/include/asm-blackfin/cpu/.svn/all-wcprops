@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu
+END
+cdefBF531.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/cdefBF531.h
+END
+cdefBF532.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/cdefBF532.h
+END
+def_LPBlackfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/def_LPBlackfin.h
+END
+cdefBF533.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/cdefBF533.h
+END
+cdef_LPBlackfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/cdef_LPBlackfin.h
+END
+cdefBF53x.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/cdefBF53x.h
+END
+bf533_rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/bf533_rtc.h
+END
+bf533_irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/bf533_irq.h
+END
+defBF531.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/defBF531.h
+END
+defBF533_extn.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/defBF533_extn.h
+END
+defBF532.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/defBF532.h
+END
+bf533_serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/bf533_serial.h
+END
+defBF533.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/84/trunk/uboot-1.1.6_akae24xx/include/asm-blackfin/cpu/defBF533.h
+END

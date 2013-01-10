@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/117/trunk/Tetrix
+END
+widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/117/trunk/Tetrix/widget.h
+END
+myitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/117/trunk/Tetrix/myitem.h
+END
+Tetrix.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/117/trunk/Tetrix/Tetrix.pro.user
+END
+Makefile.Release
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/117/trunk/Tetrix/Makefile.Release
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/117/trunk/Tetrix/Makefile
+END
+Tetrix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/117/trunk/Tetrix/Tetrix.pro
+END
+widget.ui
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/117/trunk/Tetrix/widget.ui
+END
+Makefile.Debug
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/117/trunk/Tetrix/Makefile.Debug
+END
+gamearea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/117/trunk/Tetrix/gamearea.cpp
+END
+widget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/117/trunk/Tetrix/widget.cpp
+END
+myitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/117/trunk/Tetrix/myitem.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/117/trunk/Tetrix/main.cpp
+END
+ui_widget.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/117/trunk/Tetrix/ui_widget.h
+END
+gamearea.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/117/trunk/Tetrix/gamearea.h
+END

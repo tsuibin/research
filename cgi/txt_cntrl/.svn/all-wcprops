@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/105/trunk/cgi/txt_cntrl
+END
+testlenth.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/testlenth.c
+END
+cli.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/cli.h
+END
+wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/wrap.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/test.c
+END
+txt_cntl.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/txt_cntl.cgi
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/reset.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/main.c
+END
+session.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/session.h
+END
+my_readline.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/my_readline.c
+END
+testlenth
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/testlenth
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/sqlite3.h
+END
+txt_cntl.c.bak
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/txt_cntl.c.bak
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/Makefile
+END
+header.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/header.h
+END
+my_readline.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/my_readline.h
+END
+txt_cntl.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/txt_cntl.c
+END
+cgi_op.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/cgi_op.c
+END
+txt_cntrl.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/txt_cntrl.cgi
+END
+reset.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/reset.cgi
+END
+cgi_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/cgi_op.h
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/data.txt
+END
+cgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/cgi.h
+END
+cli.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/cli.c
+END
+testip.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/testip.c
+END
+wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/76/trunk/cgi/txt_cntrl/wrap.c
+END
