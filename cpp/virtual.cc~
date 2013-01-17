@@ -44,78 +44,80 @@ using namespace std;
 //父类对象或父类指针 
 //dynamic_cast<子类*>(父类地址或指针)//要求父类至少有一个虚函数 如果是子类对象返回一个地址 如果转换失败 返回NULL
 
+
 class Animal {
-	string name;
- public:
-	 virtual void eat() = 0;	//纯虚函数
-	virtual void sleep() = 0;	//等于0 告诉编译器保证这个函数一定不会被调用
-	virtual void shout() = 0;	//
+    string name;
+  public:
+     virtual void eat() = 0;	//纯虚函数
+    virtual void sleep() = 0;	//等于0 告诉编译器保证这个函数一定不会被调用
+    virtual void shout() = 0;	//
 };
 
+
 class Cat:public Animal {
- public:
-	void eat() {
-		cout << "猫吃猫粮" << endl;
-	} void sleep() {
-		cout << "猫在床上睡觉" << endl;
-	}
-	void shout() {
-		cout << "猫喵喵叫" << endl;
-	}
+  public:
+    void eat() {
+	cout << "猫吃猫粮" << endl;
+    } void sleep() {
+	cout << "猫在床上睡觉" << endl;
+    }
+    void shout() {
+	cout << "猫喵喵叫" << endl;
+    }
 };
 
 class Dog:public Animal {
- public:
-	void eat() {
-		cout << "狗啃骨头" << endl;
-	} void sleep() {
-		cout << "狗在狗窝睡觉" << endl;
-	}
-	void shout() {
-		cout << "旺财旺财" << endl;
-	}
+  public:
+    void eat() {
+	cout << "狗啃骨头" << endl;
+    } void sleep() {
+	cout << "狗在狗窝睡觉" << endl;
+    }
+    void shout() {
+	cout << "旺财旺财" << endl;
+    }
 };
 
 class JiaFei:public Cat {
- public:
-	void eat() {
-		cout << "加肥爱吃意大利面" << endl;
-	} void sleep() {
-		cout << "加肥在沙发上睡觉" << endl;
-	}
-	void shout() {
-		cout << "加肥说下午好" << endl;
-	}
+  public:
+    void eat() {
+	cout << "加肥爱吃意大利面" << endl;
+    } void sleep() {
+	cout << "加肥在沙发上睡觉" << endl;
+    }
+    void shout() {
+	cout << "加肥说下午好" << endl;
+    }
 };
 
 class Player {
-	string name;
- public:
-	 Player(string n):name(n) {
-	} void play(Animal * p) {
-		cout << name << ':' << endl;
-		p->eat();
-		p->sleep();
-		p->shout();
-	}
-	void play(Animal & p) {
-		cout << name << ':' << endl;
-		p.eat();
-		p.sleep();
-		p.shout();
-	}
+    string name;
+  public:
+     Player(string n):name(n) {
+    } void play(Animal * p) {
+	cout << name << ':' << endl;
+	p->eat();
+	p->sleep();
+	p->shout();
+    }
+    void play(Animal & p) {
+	cout << name << ':' << endl;
+	p.eat();
+	p.sleep();
+	p.shout();
+    }
 };
 
 int main()
 {
-	//cout << sizeof(Animal) << endl;
-	Cat c;
-	Dog d;
-	JiaFei j;
-	Player p1("Dooby");
-	Player p2("Rooby");
-	p1.play(&c);
-	p2.play(&d);
-	p2.play(j);
-	system("pause");
+    //cout << sizeof(Animal) << endl;
+    Cat c;
+    Dog d;
+    JiaFei j;
+    Player p1("Dooby");
+    Player p2("Rooby");
+    p1.play(&c);
+    p2.play(&d);
+    p2.play(j);
+    system("pause");
 }
