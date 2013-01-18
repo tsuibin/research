@@ -1,7 +1,17 @@
 *.py[cod]
 
+# moc files
+moc_*
+
+# swp files
+*.swp
+
 # C extensions
+*.o
 *.so
+
+# Modules
+*.ko
 
 # Packages
 *.egg
