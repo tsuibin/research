@@ -1,0 +1,15 @@
+<uwsgi id="aps">
+    <pythonpath>/home/www-data</pythonpath>
+    <socket>/tmp/uwsgi.sock</socket>
+    <plugin>cgi</plugin>
+    <cgi>/=/home/www-data</cgi>
+    <cgi-allowed-ext>.py</cgi-allowed-ext>
+    <master />
+    <master-as-root />
+    <uid>www-data</uid>
+    <processes>8</processes>
+    <threads>20</threads>
+    <pidfile>/var/run/uwsgi.pid</pidfile>
+    <daemonize>/var/log/uwsgi.log</daemonize>
+</uwsgi>
+
