@@ -1,0 +1,73 @@
+/********************************************************************************
+** Form generated from reading UI file 'imageclient.ui'
+**
+** Created: Thu Mar 24 15:01:16 2011
+**      by: Qt User Interface Compiler version 4.7.0
+**
+** WARNING! All changes made in this file will be lost when recompiling UI file!
+********************************************************************************/
+
+#ifndef UI_IMAGECLIENT_H
+#define UI_IMAGECLIENT_H
+
+#include <QtCore/QVariant>
+#include <QtGui/QAction>
+#include <QtGui/QApplication>
+#include <QtGui/QButtonGroup>
+#include <QtGui/QHeaderView>
+#include <QtGui/QLabel>
+#include <QtGui/QLineEdit>
+#include <QtGui/QPushButton>
+#include <QtGui/QWidget>
+
+QT_BEGIN_NAMESPACE
+
+class Ui_ImageClient
+{
+public:
+    QPushButton *pushButton;
+    QPushButton *pushButton_2;
+    QLineEdit *lineEdit;
+    QLabel *label;
+
+    void setupUi(QWidget *ImageClient)
+    {
+        if (ImageClient->objectName().isEmpty())
+            ImageClient->setObjectName(QString::fromUtf8("ImageClient"));
+        ImageClient->resize(340, 112);
+        pushButton = new QPushButton(ImageClient);
+        pushButton->setObjectName(QString::fromUtf8("pushButton"));
+        pushButton->setGeometry(QRect(20, 30, 85, 27));
+        pushButton_2 = new QPushButton(ImageClient);
+        pushButton_2->setObjectName(QString::fromUtf8("pushButton_2"));
+        pushButton_2->setGeometry(QRect(230, 70, 85, 27));
+        lineEdit = new QLineEdit(ImageClient);
+        lineEdit->setObjectName(QString::fromUtf8("lineEdit"));
+        lineEdit->setGeometry(QRect(120, 30, 201, 31));
+        label = new QLabel(ImageClient);
+        label->setObjectName(QString::fromUtf8("label"));
+        label->setGeometry(QRect(120, 10, 101, 16));
+
+        retranslateUi(ImageClient);
+
+        QMetaObject::connectSlotsByName(ImageClient);
+    } // setupUi
+
+    void retranslateUi(QWidget *ImageClient)
+    {
+        ImageClient->setWindowTitle(QApplication::translate("ImageClient", "ImageClient", 0, QApplication::UnicodeUTF8));
+        pushButton->setText(QApplication::translate("ImageClient", "Connect", 0, QApplication::UnicodeUTF8));
+        pushButton_2->setText(QApplication::translate("ImageClient", "Send", 0, QApplication::UnicodeUTF8));
+        lineEdit->setText(QApplication::translate("ImageClient", "127.0.0.1", 0, QApplication::UnicodeUTF8));
+        label->setText(QApplication::translate("ImageClient", "Server Address:", 0, QApplication::UnicodeUTF8));
+    } // retranslateUi
+
+};
+
+namespace Ui {
+    class ImageClient: public Ui_ImageClient {};
+} // namespace Ui
+
+QT_END_NAMESPACE
+
+#endif // UI_IMAGECLIENT_H

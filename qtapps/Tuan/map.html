@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>QQMap</title>
+    <script charset="utf-8" src="http://s.map.qq.com/api/js/beta/v2.1/QQMapAPI.js"></script>
+    <script type="text/javascript">
+      var geocoder,map,marker = null;
+
+      function codeAddress() {
+
+          var center = new QQMap.QLatLng(39.916527,116.397128);
+              map = new QQMap.QMap(
+              document.getElementById('container'),
+              {
+                  center: center,
+                  zoomLevel: 13
+              });
+
+          geocoder = new QQMap.QGeocoder();
+
+
+          var address = document.getElementById("address").value;
+          address = '武昌';
+          geocoder.geocode({'address': address}, function(results, status) {
+              if (status == QQMap.QGeocoderStatus.OK) {
+                    map.setCenter(results.location);
+                    if (marker != null) {
+                        marker.setMap(null);
+                    }
+                    marker = new QQMap.QMarker({
+                        map: map,
+                        position:results.location
+                    });
+              } else {
+                    alert("检索没有结果，原因: " + status);
+              }
+          });
+      }
+
+        codeAddress()
+
+    </script>
+  </head>
+
+</html>

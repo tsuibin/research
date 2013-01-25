@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/A6/!svn/ver/1299/trunk/src/A6sale_touch
+END
+discountpriceitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/A6/!svn/ver/1247/trunk/src/A6sale_touch/discountpriceitem.h
+END
+featurequeryitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/A6/!svn/ver/1299/trunk/src/A6sale_touch/featurequeryitem.cpp
+END
+commonmenuitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/A6/!svn/ver/1268/trunk/src/A6sale_touch/commonmenuitem.h
+END
+recommendationpage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/recommendationpage.cpp
+END
+healthpage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/A6/!svn/ver/1296/trunk/src/A6sale_touch/healthpage.cpp
+END
+customerpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/A6/!svn/ver/1284/trunk/src/A6sale_touch/customerpage.h
+END
+emenudata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/A6/!svn/ver/1299/trunk/src/A6sale_touch/emenudata.cpp
+END
+storyselectitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/A6/!svn/ver/1264/trunk/src/A6sale_touch/storyselectitem.h
+END
+discountitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/discountitem.cpp
+END
+storytextitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/A6/!svn/ver/1247/trunk/src/A6sale_touch/storytextitem.h
+END
+rankitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/A6/!svn/ver/1292/trunk/src/A6sale_touch/rankitem.cpp
+END
+agraphicspixmapobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/A6/!svn/ver/1247/trunk/src/A6sale_touch/agraphicspixmapobject.h
+END
+emenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/A6/!svn/ver/1264/trunk/src/A6sale_touch/emenu.h
+END
+featurequerypage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/A6/!svn/ver/1299/trunk/src/A6sale_touch/featurequerypage.cpp
+END
+commonmenupage.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/commonmenupage.h
+END
+commondetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/A6/!svn/ver/1268/trunk/src/A6sale_touch/commondetail.h
+END
+aanimationpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/A6/!svn/ver/1285/trunk/src/A6sale_touch/aanimationpage.h
+END
+acontrolbutton.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/A6/!svn/ver/1284/trunk/src/A6sale_touch/acontrolbutton.h
+END
+storypage.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/A6/!svn/ver/1287/trunk/src/A6sale_touch/storypage.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/A6/!svn/ver/1299/trunk/src/A6sale_touch/main.cpp
+END
+agraphicsselectitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/A6/!svn/ver/1254/trunk/src/A6sale_touch/agraphicsselectitem.h
+END
+discountpage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/discountpage.cpp
+END
+emenuenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/A6/!svn/ver/1270/trunk/src/A6sale_touch/emenuenv.h
+END
+rankpage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/rankpage.cpp
+END
+recommendationitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/A6/!svn/ver/1267/trunk/src/A6sale_touch/recommendationitem.h
+END
+welcompage.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/A6/!svn/ver/1268/trunk/src/A6sale_touch/welcompage.h
+END
+healthitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/A6/!svn/ver/1268/trunk/src/A6sale_touch/healthitem.h
+END
+A6sale.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/A6/!svn/ver/1296/trunk/src/A6sale_touch/A6sale.pro
+END
+discountpriceitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/A6/!svn/ver/1276/trunk/src/A6sale_touch/discountpriceitem.cpp
+END
+commonmenuitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/A6/!svn/ver/1295/trunk/src/A6sale_touch/commonmenuitem.cpp
+END
+customerpage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/A6/!svn/ver/1284/trunk/src/A6sale_touch/customerpage.cpp
+END
+storyselectitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/A6/!svn/ver/1276/trunk/src/A6sale_touch/storyselectitem.cpp
+END
+healthkinditem.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/A6/!svn/ver/1296/trunk/src/A6sale_touch/healthkinditem.h
+END
+storytextitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/A6/!svn/ver/1284/trunk/src/A6sale_touch/storytextitem.cpp
+END
+featurequeryitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/A6/!svn/ver/1268/trunk/src/A6sale_touch/featurequeryitem.h
+END
+recommendationpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/recommendationpage.h
+END
+healthpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/A6/!svn/ver/1296/trunk/src/A6sale_touch/healthpage.h
+END
+emenudata.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/emenudata.h
+END
+emenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/A6/!svn/ver/1299/trunk/src/A6sale_touch/emenu.cpp
+END
+commonmenupage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/commonmenupage.cpp
+END
+agraphicsrectobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/A6/!svn/ver/1247/trunk/src/A6sale_touch/agraphicsrectobject.h
+END
+commondetail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/A6/!svn/ver/1293/trunk/src/A6sale_touch/commondetail.cpp
+END
+discountitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/A6/!svn/ver/1267/trunk/src/A6sale_touch/discountitem.h
+END
+storypage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/storypage.cpp
+END
+aanimationpage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/A6/!svn/ver/1268/trunk/src/A6sale_touch/aanimationpage.cpp
+END
+acontrolbutton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/A6/!svn/ver/1284/trunk/src/A6sale_touch/acontrolbutton.cpp
+END
+rankitem.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/A6/!svn/ver/1264/trunk/src/A6sale_touch/rankitem.h
+END
+agraphicsselectitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/A6/!svn/ver/1267/trunk/src/A6sale_touch/agraphicsselectitem.cpp
+END
+emenuenv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/A6/!svn/ver/1270/trunk/src/A6sale_touch/emenuenv.cpp
+END
+welcompage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/A6/!svn/ver/1268/trunk/src/A6sale_touch/welcompage.cpp
+END
+featurequerypage.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/A6/!svn/ver/1299/trunk/src/A6sale_touch/featurequerypage.h
+END
+recommendationitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/A6/!svn/ver/1295/trunk/src/A6sale_touch/recommendationitem.cpp
+END
+healthitem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/A6/!svn/ver/1268/trunk/src/A6sale_touch/healthitem.cpp
+END
+dishdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/dishdata.h
+END
+discountpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/discountpage.h
+END
+healthkinditem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/A6/!svn/ver/1296/trunk/src/A6sale_touch/healthkinditem.cpp
+END
+rankpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/A6/!svn/ver/1298/trunk/src/A6sale_touch/rankpage.h
+END

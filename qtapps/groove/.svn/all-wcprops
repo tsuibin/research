@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/svn/!svn/ver/4/trunk
+END
+sendmessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5/trunk/sendmessage.cpp
+END
+workspace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/workspace.cpp
+END
+gsession.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/5/trunk/gsession.h
+END
+comm.h
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/4/trunk/comm.h
+END
+tip.h
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/2/trunk/tip.h
+END
+workspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/workspace.h
+END
+sendmessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5/trunk/sendmessage.h
+END
+login.ui
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/login.ui
+END
+iplist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/iplist.cpp
+END
+login.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/5/trunk/login.cpp
+END
+iplist.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/iplist.h
+END
+login.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/4/trunk/login.h
+END
+Groove.pro
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/4/trunk/Groove.pro
+END
+message.ui
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/message.ui
+END
+user.db
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/5/trunk/user.db
+END
+commserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/commserver.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/4/trunk/main.cpp
+END
+message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/message.cpp
+END
+ipinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/2/trunk/ipinfo.cpp
+END
+comm.ui
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/comm.ui
+END
+tip.ui
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/tip.ui
+END
+commserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/commserver.h
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/message.h
+END
+ipinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/ipinfo.h
+END
+workspace.ui
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/workspace.ui
+END
+sendmessage.ui
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/trunk/sendmessage.ui
+END
+gsession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/5/trunk/gsession.cpp
+END
+comm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/4/trunk/comm.cpp
+END
+Groove.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/5/trunk/Groove.pro.user
+END
+tip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/tip.cpp
+END

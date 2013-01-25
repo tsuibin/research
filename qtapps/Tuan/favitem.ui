@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>FavItem</class>
+ <widget class="QWidget" name="FavItem">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>470</width>
+    <height>80</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="l_pic">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>6</y>
+     <width>105</width>
+     <height>70</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>pic</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="l_price">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>10</y>
+     <width>67</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>price</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pB_buy">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>10</y>
+     <width>48</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>buy</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="l_agio">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>40</y>
+     <width>67</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>agio</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="l_title">
+   <property name="geometry">
+    <rect>
+     <x>144</x>
+     <y>10</y>
+     <width>171</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pB_map">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>40</y>
+     <width>48</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>map</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="checkBox">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>30</y>
+     <width>21</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

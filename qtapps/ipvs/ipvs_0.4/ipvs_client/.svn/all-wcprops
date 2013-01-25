@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/116/trunk/imageClient
+END
+imageClient.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/115/trunk/imageClient/imageClient.pro
+END
+imageclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/135/trunk/imageClient/imageclient.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/115/trunk/imageClient/main.cpp
+END
+imageclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/115/trunk/imageClient/imageclient.h
+END
+yilai.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/115/trunk/imageClient/yilai.png
+END
+imageClient.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/132/trunk/imageClient/imageClient.pro.user
+END
+imageclient.ui
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/132/trunk/imageClient/imageclient.ui
+END
