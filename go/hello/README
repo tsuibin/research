@@ -1,0 +1,5 @@
+#to run this program
+go run hello.go
+#or
+go build hello.go
+./hello
