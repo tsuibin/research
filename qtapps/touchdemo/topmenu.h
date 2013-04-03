@@ -2,6 +2,9 @@
 #define TOPMENU_H
 
 #include <QWidget>
+#include <QGraphicsPixmapItem>
+#include <QPixmap>
+#include <QDebug>
 
 namespace Ui {
 class TopMenu;

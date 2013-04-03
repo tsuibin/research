@@ -19,7 +19,8 @@ SOURCES += main.cpp\
     createalbum.cpp \
     filtermenu.cpp \
     preview.cpp \
-    topmenu.cpp
+    topmenu.cpp \
+    albumpreview.cpp
 
 HEADERS  += touchdemo.h \
     girdview.h \
@@ -27,7 +28,8 @@ HEADERS  += touchdemo.h \
     createalbum.h \
     filtermenu.h \
     preview.h \
-    topmenu.h
+    topmenu.h \
+    albumpreview.h
 
 FORMS    += touchdemo.ui \
     girdview.ui \
@@ -35,4 +37,5 @@ FORMS    += touchdemo.ui \
     createalbum.ui \
     filtermenu.ui \
     preview.ui \
-    topmenu.ui
+    topmenu.ui \
+    albumpreview.ui

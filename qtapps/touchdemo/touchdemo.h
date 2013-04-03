@@ -3,6 +3,7 @@
 
 #include <QWidget>
 
+
 namespace Ui {
 class TouchDemo;
 }
@@ -15,6 +16,9 @@ public:
     explicit TouchDemo(QWidget *parent = 0);
     ~TouchDemo();
     
+private slots:
+
+
 private:
     Ui::TouchDemo *ui;
 };
