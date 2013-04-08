@@ -12,10 +12,7 @@ TopMenu::TopMenu(QWidget *parent) :
 
 
     QString picPath = "images/menu_bg.jpg";
-//    QGraphicsPixmapItem * menu_bg = new QGraphicsPixmapItem(this);
-//    qDebug() << QPixmap(picPath).size();
-//    menu_bg->setPixmap(QPixmap(picPath));
-//    menu_bg->show();
+
 
     ui->label->setPixmap(QPixmap(picPath));
 
@@ -33,3 +30,4 @@ TopMenu::~TopMenu()
 {
     delete ui;
 }
+

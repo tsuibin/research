@@ -18,6 +18,11 @@ public:
     explicit TopMenu(QWidget *parent = 0);
     ~TopMenu();
     
+signals:
+    void testImg();
+
+private slots:
+
 private:
     Ui::TopMenu *ui;
 };
