@@ -2,6 +2,10 @@
 #define PREVIEW_H
 
 #include <QWidget>
+#include <QMessageBox>
+#include <QDebug>
+
+
 
 namespace Ui {
 class Preview;
@@ -14,9 +18,19 @@ class Preview : public QWidget
 public:
     explicit Preview(QWidget *parent = 0);
     ~Preview();
+    void setImagePath(QString path);
+
+public slots:
+
+    void test();
+    void nextImage();
+    void prevImage();
+
     
 private:
     Ui::Preview *ui;
+    QString m_imgPath;
+    QLabel *m_imageLabel;
 };
 
 #endif // PREVIEW_H

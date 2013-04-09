@@ -1,14 +1,13 @@
 #include "albumpreview.h"
 #include "ui_albumpreview.h"
 
-AlbumPreview::AlbumPreview(QWidget *parent) :
-    QWidget(parent),
-    ui(new Ui::AlbumPreview)
+ AlbumPreview::AlbumPreview(QWidget * parent):
+QWidget(parent), ui(new Ui::AlbumPreview)
 {
-    ui->setupUi(this);
+	ui->setupUi(this);
 }
 
 AlbumPreview::~AlbumPreview()
 {
-    delete ui;
+	delete ui;
 }

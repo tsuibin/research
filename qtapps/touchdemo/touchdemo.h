@@ -4,6 +4,9 @@
 #include <QWidget>
 #include <QStringList>
 #include <QDir>
+#include <QKeyEvent>
+#include <QImage>
+#include <QMessageBox>
 
 namespace Ui {
 class TouchDemo;
@@ -12,6 +15,7 @@ class TouchDemo;
 
 class TopMenu;
 class GirdView;
+class Preview;
 
 class TouchDemo : public QWidget
 {
@@ -23,14 +27,20 @@ public:
 
 
     QStringList getImgList(QString path);
+signals:
+    void pressESC();
     
 private slots:
+    void test();
 
+protected:
+    void keyPressEvent ( QKeyEvent * event );
 
 private:
     Ui::TouchDemo *ui;
     TopMenu *m_topMenu;
     GirdView *m_girdView;
+    Preview *m_preview;
 };
 
 #endif // TOUCHDEMO_H

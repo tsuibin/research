@@ -78,6 +78,19 @@ font: 75 24pt &quot;微软雅黑&quot;;</string>
     <string/>
    </property>
   </widget>
+  <widget class="QLabel" name="label_ret">
+   <property name="geometry">
+    <rect>
+     <x>1076</x>
+     <y>0</y>
+     <width>68</width>
+     <height>48</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>

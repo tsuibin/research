@@ -21,13 +21,18 @@ public:
     explicit GirdView(QWidget *parent = 0);
     ~GirdView();
 
+signals:
+    void imgClicked();
+
 public slots:
     void initImg();
+    void sendImgClickSignal();
     
 private:
     Ui::GirdView *ui;
 
     QStringList m_imgList;
+    int m_imgCount;
 };
 
 #endif // GIRDVIEW_H

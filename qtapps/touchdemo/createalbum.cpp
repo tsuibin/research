@@ -1,14 +1,13 @@
 #include "createalbum.h"
 #include "ui_createalbum.h"
 
-CreateAlbum::CreateAlbum(QWidget *parent) :
-    QWidget(parent),
-    ui(new Ui::CreateAlbum)
+ CreateAlbum::CreateAlbum(QWidget * parent):
+QWidget(parent), ui(new Ui::CreateAlbum)
 {
-    ui->setupUi(this);
+	ui->setupUi(this);
 }
 
 CreateAlbum::~CreateAlbum()
 {
-    delete ui;
+	delete ui;
 }

@@ -20,11 +20,13 @@ public:
     
 signals:
     void testImg();
+    void retSignal();
 
 private slots:
 
 private:
     Ui::TopMenu *ui;
+    bool m_retPress;
 };
 
 #endif // TOPMENU_H
