@@ -8,10 +8,14 @@
 #include <QMessageBox>
 #include <QLabel>
 #include <QPushButton>
+#include <QMap>
+#include <QtCore>
 
 namespace Ui {
 class GirdView;
 }
+
+class ImgLabel;
 
 class GirdView : public QWidget
 {
@@ -27,12 +31,21 @@ signals:
 public slots:
     void initImg();
     void sendImgClickSignal();
+    void nextPage();
+    void prevPage();
+
+protected:
+    void mouseMoveEvent ( QMouseEvent * event );
+    void mousePressEvent ( QMouseEvent * event );
+    void mouseReleaseEvent ( QMouseEvent * event );
     
 private:
     Ui::GirdView *ui;
 
     QStringList m_imgList;
     int m_imgCount;
+    int m_currentPage;
+    QMap<int, ImgLabel*> m_imgLabelmap;
 };
 
 #endif // GIRDVIEW_H

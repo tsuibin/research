@@ -17,6 +17,8 @@ QWidget(parent), ui(new Ui::GirdView)
 
 	initImg();
 
+    m_currentPage = 0;
+
 }
 
 GirdView::~GirdView()
@@ -67,6 +69,7 @@ void GirdView::initImg()
 		label->m_index = i;
 		label->move(imgX, imgY);
 		label->show();
+        m_imgLabelmap.insert(i, label);
 		count++;
 		connect(label, SIGNAL(clicked()), this,
 			SLOT(sendImgClickSignal()));
@@ -85,3 +88,93 @@ void GirdView::sendImgClickSignal()
 
 	emit imgClicked();
 }
+
+
+
+void GirdView::nextPage()
+{
+    m_currentPage++;
+
+    int star = m_currentPage * 12;//3 * 12 =  36,, 4*12 = 48
+    int key = 0;
+
+    qDebug() << "m_currentPage" << m_currentPage; // 3 4
+    qDebug() <<"AppEnv::imgCount" << AppEnv::imgCount; // 48
+    qDebug() << star;
+    if(star >=  AppEnv::imgCount ){ //no
+        qDebug() <<"max";
+        m_currentPage = qCeil(AppEnv::imgCount/12)-1;
+        qDebug() << AppEnv::imgCount/12 << qCeil(AppEnv::imgCount/12);
+        return;
+
+    }
+    for(int i = star;i < AppEnv::imgCount && i < star + 12; i++)
+    {
+      //  qDebug() << AppEnv::imgList.at(i);
+
+        QPixmap tmp = QPixmap( AppEnv::imgPath + AppEnv::imgList.at(i) ).scaled(290, 197);
+
+        ImgLabel *label =  m_imgLabelmap.value(key);
+        label->setImgPath( AppEnv::imgPath + AppEnv::imgList.at(i) );
+        label->setPixmap(tmp);
+        label->m_index = i;
+
+            key++;
+
+    }
+
+}
+
+void GirdView::prevPage()
+{
+    m_currentPage--;//3-1 = 2
+
+    int star = m_currentPage * 12+12; // 24+12 = 36
+    int key = 0;
+    if(star <= 0){
+        qDebug() <<"min";
+        m_currentPage = 0;
+        return;
+
+    }
+
+
+    qDebug() <<"star-12" << star-12;
+    qDebug() <<"";
+    for(int i = star-12; i < star; i++)//24~36
+    {
+    //    qDebug() << AppEnv::imgList.at(i);
+
+        QPixmap tmp = QPixmap( AppEnv::imgPath + AppEnv::imgList.at(i) ).scaled(290, 197);
+
+        ImgLabel *label =  m_imgLabelmap.value(key);
+        label->setImgPath( AppEnv::imgPath + AppEnv::imgList.at(i) );
+        label->setPixmap(tmp);
+        label->m_index = i;
+
+            key++;
+
+    }
+
+}
+
+
+
+void GirdView::mouseMoveEvent ( QMouseEvent * event )
+{
+    QWidget::mouseMoveEvent(event);
+
+}
+
+void GirdView::mousePressEvent ( QMouseEvent * event )
+{
+    QWidget::mousePressEvent(event);
+
+}
+
+void GirdView::mouseReleaseEvent ( QMouseEvent * event )
+{
+    QWidget::mouseReleaseEvent(event);
+}
+
+

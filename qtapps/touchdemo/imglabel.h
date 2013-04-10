@@ -64,9 +64,14 @@ public slots:
 
     void mousePressEvent(QMouseEvent *event);
     void mouseReleaseEvent(QMouseEvent *event);
+    void mouseMoveEvent ( QMouseEvent * event );
 
 private:
     QString m_imgPath;
+
+    int m_mouseOldPosX;
+    int m_movingDistance;
+    int pageDirection;
 
 
     

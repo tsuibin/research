@@ -7,6 +7,12 @@
 #include "imglabel.h"
 #include "appenv.h"
 
+
+#define PREVIOUS_PAGE   1
+#define NEXT_PAGE       -1
+#define CURRENT_PAGE    0
+
+
  TouchDemo::TouchDemo(QWidget * parent):
 QWidget(parent), ui(new Ui::TouchDemo)
 {
@@ -51,62 +57,75 @@ TouchDemo::~TouchDemo()
 	delete ui;
 }
 
-//void TouchDemo::getImgList()
-//{
+void TouchDemo::previousPage()
+{
+    qDebug() << __func__;
+    if(m_girdView->isVisible())
+    {
+        m_girdView->prevPage();
 
-//    QDir pdir;
-//    pdir.setPath("/home/tsuibin/Pictures/deepin-wallpapers/");
-//    QFileInfoList t = pdir.entryInfoList(QDir::Files);
-//}
-void TouchDemo::test()
+    }
+}
+void TouchDemo::nextPage()
 {
 	qDebug() << __func__;
+    if(m_girdView->isVisible())
+    {
+        qDebug() << "can do next";
+        m_girdView->nextPage();
 
-//        //sence
-//        QGraphicsScene *scene = new QGraphicsScene(0, 0, 1280, 800); //x y width height
+    }
+}
 
-//        Pixmap *item = new Pixmap(QPixmap("/home/tsuibin/Pictures/deepin-wallpapers/butterfly-1.jpg").scaled(1280,752));
+void TouchDemo::returnCurrentPage()
+{
 
-//        item->setOffset(0, 48);
 
-//        scene->addItem(item);
+}
 
-//        // Ui
-//        View *view = new View(scene);
-//       // view->setWindowTitle(QT_TRANSLATE_NOOP(QGraphicsView, "深度看图"));
-//        view->setViewportUpdateMode(QGraphicsView::BoundingRectViewportUpdate);
-//       // view->setBackgroundBrush(scaledImg);
-//        view->setCacheMode(QGraphicsView::CacheBackground);
-//        view->setRenderHints(QPainter::Antialiasing | QPainter::SmoothPixmapTransform);
+void TouchDemo::mouseMoveEvent ( QMouseEvent * event )
+{
+    int x = event->x() - m_mouseOldPosX;
 
-//        view->show();
 
-//    QString fileName = "/home/tsuibin/Pictures/deepin-wallpapers/butterfly-1.jpg";
-//    QImage image(fileName);
+    m_movingDistance += x;
+    m_mouseOldPosX = event->x();
 
-//    if (image.isNull()) {
-//        QMessageBox::information(this, tr("Image Viewer"),
-//                                 tr("Cannot load %1.").arg(fileName));
-//        return;
-//    }
-////将名为fileName的图片显示到imageLabel上
-//    QLabel *imageLabel = new QLabel(this);
-//    imageLabel->resize(1280,752);
-//    QPixmap scaledImg = QPixmap::fromImage(image).scaled(1280,752);
-//    imageLabel->setPixmap(scaledImg);
-//    imageLabel->move(0,48);
+    qDebug() << "m_movingDistance" << m_movingDistance;
 
+}
+
+void TouchDemo::mousePressEvent ( QMouseEvent * event )
+{
+    qDebug() << "m_movingDistance" << m_movingDistance;
+    m_movingDistance = 0;
+    m_mouseOldPosX = event->x();
+
+}
+
+void TouchDemo::mouseReleaseEvent ( QMouseEvent * event )
+{
+    qDebug() << "m_movingDistance" << m_movingDistance;
+
+    qDebug() << "mouseOldPosX" <<m_mouseOldPosX
+             <<"movingDistance"<<m_movingDistance;
+
+    pageDirection = 0;
+    if (m_movingDistance > 200)
+    {
+        pageDirection = 1;
+    }
+    else if (m_movingDistance < (-200))
+    {
+        pageDirection = -1;
+    }
+    automaticPage(pageDirection);
+
+    qDebug() <<"+-" << pageDirection;
 }
 
 void TouchDemo::keyPressEvent(QKeyEvent * event)
 {
-
-/*
-Qt::Key_Left	0x01000012
-Qt::Key_Up	0x01000013
-Qt::Key_Right	0x01000014
-Qt::Key_Down	0x01000015
-*/
 
 	switch (event->key()) {
 
@@ -134,11 +153,45 @@ Qt::Key_Down	0x01000015
 		qDebug() << "esc";
 		emit pressESC();
 		break;
+    case Qt::Key_PageUp:
+        qDebug() << "prev";
+        previousPage();
+        break;
+
+    case Qt::Key_PageDown:
+        qDebug() << "down";
+        nextPage();
+        break;
 
 	default:
 		qDebug() << "unknow";
 		break;
 
 	}
+
+}
+
+
+
+
+
+void TouchDemo::automaticPage(int direction)
+{
+    qDebug()<<"direction"<<direction;
+    switch(direction)
+    {
+    case 1:
+        previousPage();
+        break;
+    case -1:
+        nextPage();
+        break;
+    case 0:
+        returnCurrentPage();
+        break;
+    default:
+        break;
+
+    }
 
 }

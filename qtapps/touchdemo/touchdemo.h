@@ -31,16 +31,28 @@ signals:
     void pressESC();
     
 private slots:
-    void test();
+    void previousPage();
+    void nextPage();
+    void returnCurrentPage();
+
 
 protected:
     void keyPressEvent ( QKeyEvent * event );
+    void mouseMoveEvent ( QMouseEvent * event );
+    void mousePressEvent ( QMouseEvent * event );
+    void mouseReleaseEvent ( QMouseEvent * event );
 
 private:
     Ui::TouchDemo *ui;
     TopMenu *m_topMenu;
     GirdView *m_girdView;
     Preview *m_preview;
+
+    int m_mouseOldPosX;
+    int m_movingDistance;
+    int pageDirection;
+    void automaticPage(int direction);
+
 };
 
 #endif // TOUCHDEMO_H

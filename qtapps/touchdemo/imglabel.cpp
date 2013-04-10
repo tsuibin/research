@@ -14,6 +14,9 @@ QLabel(parent)
 
 void ImgLabel::mousePressEvent(QMouseEvent * event)
 {
+    /*鼠标按下*/
+    m_movingDistance = 0;
+    m_mouseOldPosX = event->x();
 
 	if (event->button() == Qt::LeftButton) {
 
@@ -27,27 +30,48 @@ void ImgLabel::mousePressEvent(QMouseEvent * event)
 
 }
 
+void ImgLabel::mouseMoveEvent ( QMouseEvent * event )
+{
+    int x = event->x() - m_mouseOldPosX;
+
+
+    m_movingDistance += x;
+    m_mouseOldPosX = event->x();
+
+
+    QLabel::mouseMoveEvent(event);
+
+}
+
 void ImgLabel::mouseReleaseEvent(QMouseEvent * event)
 {
-	//如果单击了就触发clicked信号
-	if (event->button() == Qt::LeftButton) {
 
-		if (!m_normalImg.isEmpty())
-			this->setPixmap(QPixmap(m_normalImg));
+    if (!m_normalImg.isEmpty())
+        this->setPixmap(QPixmap(m_normalImg));
 
-		//触发clicked信号
+    qDebug() << "mouseOldPosX" <<m_mouseOldPosX
+             <<"movingDistance"<<m_movingDistance;
+
+    pageDirection = 0;
+    if (m_movingDistance > 200)
+    {
+        pageDirection = 1;
+    }
+    else if (m_movingDistance < (-200))
+    {
+        pageDirection = -1;
+    }
+
+
+    if (event->button() == Qt::LeftButton && pageDirection == 0)
+    {
+
 		emit released();
 		emit clicked();
-		//AppEnv::currentImg = m_imgPath;
-		//  test();
-	}
-	//将该事件传给父类处理
-	QLabel::mouseReleaseEvent(event);
 
-	qDebug() << "click" << m_imgPath << m_index;
-	qDebug() << "env" << AppEnv::imgPath +
-	    AppEnv::imgList.
-	    at(AppEnv::currentImageIndex) << AppEnv::currentImageIndex;
+	}
+
+    QLabel::mouseReleaseEvent(event);
 
 }
 
