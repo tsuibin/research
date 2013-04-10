@@ -30,7 +30,7 @@ void GirdView::initImg()
 {
 
 	QDir pdir;
-	pdir.setPath("/home/tsuibin/Pictures/deepin-wallpapers/");
+    pdir.setPath(AppEnv::imgPath);
 	QFileInfoList t = pdir.entryInfoList(QDir::Files);
 
 	int col = 0;
