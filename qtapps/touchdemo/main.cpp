@@ -3,9 +3,15 @@
 #include <QTextCodec>
 #include <QFont>
 
+#define RELEASE 0
+
 int main(int argc, char *argv[])
 {
 	QApplication a(argc, argv);
+
+#if RELEASE
+    QApplication::setOverrideCursor(Qt::BlankCursor);
+#endif
 
 	QTextCodec *codec = QTextCodec::codecForName("UTF8");
 	QTextCodec::setCodecForLocale(codec);

@@ -26,7 +26,10 @@ public slots:
     void nextImage();
     void prevImage();
 
-    
+protected:
+
+    bool event ( QEvent * event );
+
 private:
     Ui::Preview *ui;
     QString m_imgPath;

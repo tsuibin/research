@@ -7,6 +7,7 @@
 #include <QKeyEvent>
 #include <QImage>
 #include <QMessageBox>
+#include <QEvent>
 
 namespace Ui {
 class TouchDemo;
@@ -42,6 +43,7 @@ protected:
     void mousePressEvent ( QMouseEvent * event );
     void mouseReleaseEvent ( QMouseEvent * event );
 
+
 private:
     Ui::TouchDemo *ui;
     TopMenu *m_topMenu;
@@ -52,6 +54,7 @@ private:
     int m_movingDistance;
     int pageDirection;
     void automaticPage(int direction);
+    void automaticImg(int direction);
 
 };
 

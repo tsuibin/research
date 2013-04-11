@@ -103,3 +103,16 @@ void Preview::prevImage()
 	m_imageLabel->move(0, 48);
 
 }
+
+
+bool Preview::event( QEvent * event )
+{
+    if ( event->type() == QEvent::TouchEnd )
+    {
+        qDebug() << "check touch event";
+
+
+    }
+
+    QWidget::event(event);
+}

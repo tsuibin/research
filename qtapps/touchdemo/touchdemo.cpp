@@ -119,8 +119,14 @@ void TouchDemo::mouseReleaseEvent ( QMouseEvent * event )
     {
         pageDirection = -1;
     }
-    automaticPage(pageDirection);
-
+    if(m_girdView->isVisible())
+    {
+        automaticPage(pageDirection);
+    }
+    if(m_preview->isVisible())
+    {
+        automaticImg(pageDirection);
+    }
     qDebug() <<"+-" << pageDirection;
 }
 
@@ -172,6 +178,26 @@ void TouchDemo::keyPressEvent(QKeyEvent * event)
 }
 
 
+
+void TouchDemo::automaticImg(int direction)
+{
+    qDebug()<<"direction"<<direction;
+    switch(direction)
+    {
+    case 1:
+        m_preview->prevImage();
+        break;
+    case -1:
+        m_preview->nextImage();
+        break;
+    case 0:
+        break;
+    default:
+        break;
+
+    }
+
+}
 
 
 
