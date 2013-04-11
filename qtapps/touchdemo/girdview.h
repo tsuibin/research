@@ -38,7 +38,8 @@ protected:
     void mouseMoveEvent ( QMouseEvent * event );
     void mousePressEvent ( QMouseEvent * event );
     void mouseReleaseEvent ( QMouseEvent * event );
-    
+    bool event( QEvent * event );
+
 private:
     Ui::GirdView *ui;
 

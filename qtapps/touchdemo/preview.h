@@ -34,6 +34,9 @@ private:
     Ui::Preview *ui;
     QString m_imgPath;
     QLabel *m_imageLabel;
+    qreal totalScaleFactor;
+    QPixmap m_currentImgPixmap;
+    qreal m_scaled;
 };
 
 #endif // PREVIEW_H

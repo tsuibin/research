@@ -65,6 +65,8 @@ public slots:
     void mousePressEvent(QMouseEvent *event);
     void mouseReleaseEvent(QMouseEvent *event);
     void mouseMoveEvent ( QMouseEvent * event );
+   // bool event( QEvent * event );
+
 
 private:
     QString m_imgPath;

@@ -8,6 +8,7 @@
 #include <QImage>
 #include <QMessageBox>
 #include <QEvent>
+#include <QTouchEvent>
 
 namespace Ui {
 class TouchDemo;
@@ -42,6 +43,9 @@ protected:
     void mouseMoveEvent ( QMouseEvent * event );
     void mousePressEvent ( QMouseEvent * event );
     void mouseReleaseEvent ( QMouseEvent * event );
+    bool event( QEvent * event );
+
+    void touchBegin(QEvent * event);
 
 
 private:
@@ -49,6 +53,7 @@ private:
     TopMenu *m_topMenu;
     GirdView *m_girdView;
     Preview *m_preview;
+    QList<QTouchEvent::TouchPoint> m_touchPoints;
 
     int m_mouseOldPosX;
     int m_movingDistance;

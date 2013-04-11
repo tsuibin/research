@@ -1,6 +1,6 @@
 #include "appenv.h"
 
-QString AppEnv::imgPath = "/home/tsuibin/Pictures/deepin-wallpapers/";
+QString AppEnv::imgPath = "./deepin-wallpapers/";
 QString currentImg = "";
 int AppEnv::currentImageIndex = 0;
 int AppEnv::imgCount = 0;

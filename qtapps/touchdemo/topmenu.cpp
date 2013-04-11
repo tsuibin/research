@@ -7,7 +7,7 @@ QWidget(parent), ui(new Ui::TopMenu)
 {
 
 	ui->setupUi(this);
-
+    ui->label_title->setText("看图 Demo");
 	QString picPath = "images/menu_bg.jpg";
 
 	ui->label->setPixmap(QPixmap(picPath));

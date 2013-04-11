@@ -8,6 +8,8 @@ QString AppEnv::currentImg;
  ImgLabel::ImgLabel(QWidget * parent):
 QLabel(parent)
 {
+
+     setAttribute(Qt::WA_AcceptTouchEvents);
 	m_activeImg = "";
 	m_normalImg = "";
 }
@@ -86,6 +88,10 @@ void ImgLabel::setImgPath(QString path)
 	this->m_imgPath = path;
 }
 
+//bool ImgLabel::event( QEvent * event )
+//{
+//    QWidget::event(event);
+//}
 void ImgLabel::test()
 {
 

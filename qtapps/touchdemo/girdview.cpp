@@ -8,6 +8,7 @@
 QWidget(parent), ui(new Ui::GirdView)
 {
 	ui->setupUi(this);
+    setAttribute(Qt::WA_AcceptTouchEvents);
 
 	this->setStyleSheet(QString::fromUtf8("QLabel {\n"
 					      "border-width:10px;\n"
@@ -175,6 +176,11 @@ void GirdView::mousePressEvent ( QMouseEvent * event )
 void GirdView::mouseReleaseEvent ( QMouseEvent * event )
 {
     QWidget::mouseReleaseEvent(event);
+}
+
+bool GirdView::event( QEvent * event )
+{
+    QWidget::event(event);
 }
 
 

@@ -17,19 +17,21 @@
 QWidget(parent), ui(new Ui::TouchDemo)
 {
 	ui->setupUi(this);
-	this->setWindowTitle("深度看图");
+    this->setWindowTitle("看图 Demo");
 	this->setMaximumSize(1280, 800);
 	this->setMinimumSize(1280, 800);
+
+    setAttribute(Qt::WA_AcceptTouchEvents);//add touch device support
+
 
 	QStringList imgList = AppEnv::initImgList();
 
 	QString picPath = "images/bg.jpg";
 	ui->label->setPixmap(QPixmap(picPath));
 
-	//   getImgList("/usr/share/wallpapers/kdeepin");
 
 	m_preview = new Preview(this);
-	m_preview->show();
+    m_preview->hide();
 
 	m_girdView = new GirdView(this);
 	m_girdView->show();
@@ -83,29 +85,57 @@ void TouchDemo::returnCurrentPage()
 
 }
 
+void TouchDemo::touchBegin(QEvent * event)
+{
+    QTouchEvent *touchEvent = static_cast<QTouchEvent *>(event);
+    m_touchPoints = touchEvent->touchPoints();
+    if (m_touchPoints.count() == 2)
+    {
+        const QTouchEvent::TouchPoint &touchPoint0 = m_touchPoints.first();
+        const QTouchEvent::TouchPoint &touchPoint1 = m_touchPoints.last();
+
+        qDebug() <<"2 touch press";
+        qDebug() << touchPoint0.pos();
+    }
+
+
+}
+bool TouchDemo::event( QEvent * event )
+{
+
+   return QWidget::event(event);
+}
+
 void TouchDemo::mouseMoveEvent ( QMouseEvent * event )
 {
-    int x = event->x() - m_mouseOldPosX;
+    if (m_mouseOldPosX == 0)
+    {
+        m_mouseOldPosX = event->x();
 
+    }
+    int x = event->x() - m_mouseOldPosX;
+    qDebug() << "event->x()" << event->x() << "m_mouseOldPosX" << m_mouseOldPosX <<"x" << x;
 
     m_movingDistance += x;
     m_mouseOldPosX = event->x();
 
-    qDebug() << "m_movingDistance" << m_movingDistance;
 
 }
 
 void TouchDemo::mousePressEvent ( QMouseEvent * event )
 {
-    qDebug() << "m_movingDistance" << m_movingDistance;
+
+
     m_movingDistance = 0;
     m_mouseOldPosX = event->x();
+
+    qDebug() << "press" << m_mouseOldPosX <<"event->x()" << event->x();
+
 
 }
 
 void TouchDemo::mouseReleaseEvent ( QMouseEvent * event )
 {
-    qDebug() << "m_movingDistance" << m_movingDistance;
 
     qDebug() << "mouseOldPosX" <<m_mouseOldPosX
              <<"movingDistance"<<m_movingDistance;
@@ -128,6 +158,7 @@ void TouchDemo::mouseReleaseEvent ( QMouseEvent * event )
         automaticImg(pageDirection);
     }
     qDebug() <<"+-" << pageDirection;
+    QWidget::mouseReleaseEvent(event);
 }
 
 void TouchDemo::keyPressEvent(QKeyEvent * event)
