@@ -33,48 +33,48 @@ QWidget(parent), ui(new Ui::TouchDemo)
 	m_preview = new Preview(this);
     m_preview->hide();
 
-	m_girdView = new GirdView(this);
-	m_girdView->show();
+    m_gridView = new GridView(this);
+    m_gridView->show();
 
 	m_topMenu = new TopMenu(this);
 	m_topMenu->show();
 
-	connect(m_girdView, SIGNAL(imgClicked()), m_preview, SLOT(test()));
-	connect(m_girdView, SIGNAL(imgClicked()), m_preview, SLOT(show()));
+    connect(m_gridView, SIGNAL(imgClicked()), m_preview, SLOT(test()));
+    connect(m_gridView, SIGNAL(imgClicked()), m_preview, SLOT(show()));
 
-	connect(m_girdView, SIGNAL(imgClicked()), m_girdView, SLOT(hide()));
+    connect(m_gridView, SIGNAL(imgClicked()), m_gridView, SLOT(hide()));
 
-	connect(m_topMenu, SIGNAL(retSignal()), m_girdView, SLOT(show()));
+    connect(m_topMenu, SIGNAL(retSignal()), m_gridView, SLOT(show()));
 	connect(m_topMenu, SIGNAL(retSignal()), m_preview, SLOT(hide()));
 
 	connect(this, SIGNAL(pressESC()), m_preview, SLOT(hide()));
-	connect(this, SIGNAL(pressESC()), m_girdView, SLOT(show()));
+    connect(this, SIGNAL(pressESC()), m_gridView, SLOT(show()));
 
 }
 
 TouchDemo::~TouchDemo()
 {
 	delete m_topMenu;
-	delete m_girdView;
+    delete m_gridView;
 	delete ui;
 }
 
 void TouchDemo::previousPage()
 {
     qDebug() << __func__;
-    if(m_girdView->isVisible())
+    if(m_gridView->isVisible())
     {
-        m_girdView->prevPage();
+        m_gridView->prevPage();
 
     }
 }
 void TouchDemo::nextPage()
 {
 	qDebug() << __func__;
-    if(m_girdView->isVisible())
+    if(m_gridView->isVisible())
     {
         qDebug() << "can do next";
-        m_girdView->nextPage();
+        m_gridView->nextPage();
 
     }
 }
@@ -114,10 +114,12 @@ void TouchDemo::mouseMoveEvent ( QMouseEvent * event )
 
     }
     int x = event->x() - m_mouseOldPosX;
-    qDebug() << "event->x()" << event->x() << "m_mouseOldPosX" << m_mouseOldPosX <<"x" << x;
+   // qDebug() << "event->x()" << event->x() << "m_mouseOldPosX" << m_mouseOldPosX <<"x" << x;
 
     m_movingDistance += x;
     m_mouseOldPosX = event->x();
+
+    m_gridView->move(m_gridView->x()+x,m_gridView->y());
 
 
 }
@@ -149,10 +151,19 @@ void TouchDemo::mouseReleaseEvent ( QMouseEvent * event )
     {
         pageDirection = -1;
     }
-    if(m_girdView->isVisible())
-    {
-        automaticPage(pageDirection);
-    }
+
+    /*
+渲染3页 [0] 1 2
+默认显示 [0]
+向下翻页 将1 移动到当前位置 渲染2 //0 [1] 2
+向下翻页 将2 移动到当前位置 渲染3 释放0// 1 [2] 3
+*/
+//    if(m_gridView->isVisible())
+//    {
+//        automaticPage(pageDirection);
+//    }
+
+
     if(m_preview->isVisible())
     {
         automaticImg(pageDirection);

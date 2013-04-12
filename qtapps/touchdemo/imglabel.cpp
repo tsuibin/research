@@ -9,14 +9,17 @@ QString AppEnv::currentImg;
 QLabel(parent)
 {
 
-     setAttribute(Qt::WA_AcceptTouchEvents);
+    setAttribute(Qt::WA_AcceptTouchEvents);
 	m_activeImg = "";
 	m_normalImg = "";
+    m_preview = false;
+
 }
 
 void ImgLabel::mousePressEvent(QMouseEvent * event)
 {
     /*鼠标按下*/
+    m_preview = true;
     m_movingDistance = 0;
     m_mouseOldPosX = event->x();
 
@@ -34,6 +37,7 @@ void ImgLabel::mousePressEvent(QMouseEvent * event)
 
 void ImgLabel::mouseMoveEvent ( QMouseEvent * event )
 {
+    m_preview = false;
     int x = event->x() - m_mouseOldPosX;
 
 
@@ -65,8 +69,9 @@ void ImgLabel::mouseReleaseEvent(QMouseEvent * event)
     }
 
 
-    if (event->button() == Qt::LeftButton && pageDirection == 0)
+    if (event->button() == Qt::LeftButton && pageDirection == 0 && m_preview == true)
     {
+
 
 		emit released();
 		emit clicked();

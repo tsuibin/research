@@ -17,13 +17,13 @@ class GirdView;
 
 class ImgLabel;
 
-class GirdView : public QWidget
+class GridView : public QWidget
 {
     Q_OBJECT
     
 public:
-    explicit GirdView(QWidget *parent = 0);
-    ~GirdView();
+    explicit GridView(QWidget *parent = 0);
+    ~GridView();
 
 signals:
     void imgClicked();

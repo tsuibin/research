@@ -74,6 +74,7 @@ private:
     int m_mouseOldPosX;
     int m_movingDistance;
     int pageDirection;
+    bool m_preview;
 
 
     

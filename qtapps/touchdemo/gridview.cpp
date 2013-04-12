@@ -5,7 +5,7 @@
 #include "common.h"
 
 
- GirdView::GirdView(QWidget * parent):
+ GridView::GridView(QWidget * parent):
 QWidget(parent), ui(new Ui::GirdView)
 {
 	ui->setupUi(this);
@@ -23,12 +23,12 @@ QWidget(parent), ui(new Ui::GirdView)
 
 }
 
-GirdView::~GirdView()
+GridView::~GridView()
 {
 	delete ui;
 }
 
-void GirdView::initImg()
+void GridView::initImg()
 {
 
 	QDir pdir;
@@ -79,7 +79,7 @@ void GirdView::initImg()
 	}
 }
 
-void GirdView::sendImgClickSignal()
+void GridView::sendImgClickSignal()
 {
 
 	ImgLabel *label = qobject_cast < ImgLabel * >(sender());
@@ -93,7 +93,7 @@ void GirdView::sendImgClickSignal()
 
 
 
-void GirdView::nextPage()
+void GridView::nextPage()
 {
     m_currentPage++;
 
@@ -127,7 +127,7 @@ void GirdView::nextPage()
 
 }
 
-void GirdView::prevPage()
+void GridView::prevPage()
 {
     m_currentPage--;//3-1 = 2
 
@@ -162,24 +162,24 @@ void GirdView::prevPage()
 
 
 
-void GirdView::mouseMoveEvent ( QMouseEvent * event )
+void GridView::mouseMoveEvent ( QMouseEvent * event )
 {
     QWidget::mouseMoveEvent(event);
 
 }
 
-void GirdView::mousePressEvent ( QMouseEvent * event )
+void GridView::mousePressEvent ( QMouseEvent * event )
 {
     QWidget::mousePressEvent(event);
 
 }
 
-void GirdView::mouseReleaseEvent ( QMouseEvent * event )
+void GridView::mouseReleaseEvent ( QMouseEvent * event )
 {
     QWidget::mouseReleaseEvent(event);
 }
 
-bool GirdView::event( QEvent * event )
+bool GridView::event( QEvent * event )
 {
     QWidget::event(event);
 }

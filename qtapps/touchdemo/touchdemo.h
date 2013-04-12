@@ -16,7 +16,7 @@ class TouchDemo;
 
 
 class TopMenu;
-class GirdView;
+class GridView;
 class Preview;
 
 class TouchDemo : public QWidget
@@ -51,7 +51,7 @@ protected:
 private:
     Ui::TouchDemo *ui;
     TopMenu *m_topMenu;
-    GirdView *m_girdView;
+    GridView *m_gridView;
     Preview *m_preview;
     QList<QTouchEvent::TouchPoint> m_touchPoints;
 
