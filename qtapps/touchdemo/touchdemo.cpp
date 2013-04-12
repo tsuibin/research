@@ -210,7 +210,9 @@ void TouchDemo::keyPressEvent(QKeyEvent * event)
         qDebug() << "down";
         nextPage();
         break;
-
+    case Qt::Key_R:
+        m_preview->rotate(90);
+        break;
 	default:
 		qDebug() << "unknow";
 		break;

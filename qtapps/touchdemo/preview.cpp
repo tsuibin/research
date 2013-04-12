@@ -16,6 +16,9 @@ QWidget(parent), ui(new Ui::Preview)
     totalScaleFactor = 1;
 
 
+
+
+
 }
 
 Preview::~Preview()
@@ -27,6 +30,16 @@ void
  Preview::setImagePath(QString path)
 {
 	m_imgPath = path;
+
+}
+
+void Preview::rotate( qreal angle )
+{
+
+    QMatrix matrix;
+    matrix.rotate(angle);
+    m_currentImgPixmap = m_currentImgPixmap.transformed(matrix);
+    m_imageLabel->setPixmap(m_currentImgPixmap);
 
 }
 
@@ -46,6 +59,7 @@ void Preview::test()
     m_currentImgPixmap = QPixmap::fromImage(image).scaled(1280, 752);
     m_imageLabel->setPixmap(m_currentImgPixmap);
 	m_imageLabel->move(0, 48);
+
 
 }
 
@@ -136,17 +150,17 @@ bool Preview::event( QEvent * event )
                 totalScaleFactor *= currentScaleFactor;
                 currentScaleFactor = 1;
             }
-            //m_imageLabel->pixmap()->scaled(1280*totalScaleFactor * currentScaleFactor, 752 * totalScaleFactor * currentScaleFactor)
+
             qreal tmp =  totalScaleFactor * currentScaleFactor;
             if(tmp > 2)
             {
                 tmp = 1.5;
-                //QMessageBox::information(this,"max","it's max!");
+
             }
-          //  qDebug() << tmp << "m_scaled" << m_scaled << "tmp - m_scaled" << qAbs(tmp - m_scaled);
+
             if(qAbs(tmp - m_scaled) > 0.12){
 
-                m_imageLabel->setPixmap(m_currentImgPixmap.scaled(1280*tmp, 752 * tmp));
+                m_imageLabel->setPixmap(m_currentImgPixmap.scaled(1280*tmp, 752 * tmp)); //Qt::KeepAspectRatio
                 m_imageLabel->setAlignment(Qt::AlignVCenter | Qt::AlignHCenter);
                 m_scaled = tmp;
             }

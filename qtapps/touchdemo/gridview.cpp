@@ -48,6 +48,7 @@ void GridView::initImg()
 
 	}
 
+    //page 0
 	for (int i = 0; i < max; i++) {
 
 		m_imgList.append(t.at(i).absoluteFilePath());
@@ -77,6 +78,97 @@ void GridView::initImg()
 			SLOT(sendImgClickSignal()));
 
 	}
+
+    //page 1
+
+    col = 0;
+    row = 0;
+    count = 1;
+    imgX = 0;
+    imgY = 0;
+
+    max = 24;
+    if (t.size() > 12 && t.size() < 24)
+    {
+        max = t.size();
+    }
+    qDebug() <<">12 < 24";
+
+    for (int i = 12; i < max; i++) {
+
+        m_imgList.append(t.at(i).absoluteFilePath());
+        QPixmap tmp =
+            QPixmap(t.at(i).absoluteFilePath()).scaled(290, 197);
+
+         qDebug() << row << col;
+        imgX = 44 + tmp.width() * col + 10 +1280;
+        imgY = 78 + tmp.height() * row + 10;
+
+        if (count % 4 == 0)
+            row++;
+        col++;
+
+        if (col == 4)
+            col = 0;
+
+        ImgLabel *label = new ImgLabel(this);
+        label->setImgPath(t.at(i).absoluteFilePath());
+        label->setPixmap(tmp);
+        label->m_index = i;
+        label->move(imgX, imgY);
+        label->show();
+        m_imgLabelmap.insert(i, label);
+        count++;
+        connect(label, SIGNAL(clicked()), this,
+            SLOT(sendImgClickSignal()));
+
+    }
+
+    //page 3
+
+    col = 0;
+    row = 0;
+    count = 1;
+    imgX = 0;
+    imgY = 0;
+
+    max = 36;
+    if (t.size() > 24 && t.size() < 36)
+    {
+        max = t.size();
+    }
+    qDebug() <<">24 < 36";
+
+    for (int i = 24; i < max; i++) {
+
+        m_imgList.append(t.at(i).absoluteFilePath());
+        QPixmap tmp =
+            QPixmap(t.at(i).absoluteFilePath()).scaled(290, 197);
+
+         qDebug() << row << col;
+        imgX = 44 + tmp.width() * col + 10 +1280*2;
+        imgY = 78 + tmp.height() * row + 10;
+
+        if (count % 4 == 0)
+            row++;
+        col++;
+
+        if (col == 4)
+            col = 0;
+
+        ImgLabel *label = new ImgLabel(this);
+        label->setImgPath(t.at(i).absoluteFilePath());
+        label->setPixmap(tmp);
+        label->m_index = i;
+        label->move(imgX, imgY);
+        label->show();
+        m_imgLabelmap.insert(i, label);
+        count++;
+        connect(label, SIGNAL(clicked()), this,
+            SLOT(sendImgClickSignal()));
+
+    }
+
 }
 
 void GridView::sendImgClickSignal()

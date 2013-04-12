@@ -14,6 +14,7 @@ QLabel(parent)
 	m_normalImg = "";
     m_preview = false;
 
+
 }
 
 void ImgLabel::mousePressEvent(QMouseEvent * event)

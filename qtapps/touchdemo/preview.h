@@ -25,10 +25,12 @@ public slots:
     void test();
     void nextImage();
     void prevImage();
+    void rotate( qreal angle );
 
 protected:
 
     bool event ( QEvent * event );
+
 
 private:
     Ui::Preview *ui;
