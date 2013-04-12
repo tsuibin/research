@@ -2,7 +2,7 @@
 #include "ui_touchdemo.h"
 
 #include "topmenu.h"
-#include "girdview.h"
+#include "gridview.h"
 #include "preview.h"
 #include "imglabel.h"
 #include "appenv.h"

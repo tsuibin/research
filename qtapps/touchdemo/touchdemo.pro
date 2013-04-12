@@ -14,7 +14,7 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         touchdemo.cpp \
-    girdview.cpp \
+    gridview.cpp \
     randomview.cpp \
     createalbum.cpp \
     filtermenu.cpp \
@@ -25,7 +25,7 @@ SOURCES += main.cpp\
     appenv.cpp
 
 HEADERS  += touchdemo.h \
-    girdview.h \
+    gridview.h \
     randomview.h \
     createalbum.h \
     filtermenu.h \
@@ -33,10 +33,11 @@ HEADERS  += touchdemo.h \
     topmenu.h \
     albumpreview.h \
     imglabel.h \
-    appenv.h
+    appenv.h \
+    common.h
 
 FORMS    += touchdemo.ui \
-    girdview.ui \
+    gridview.ui \
     randomview.ui \
     createalbum.ui \
     filtermenu.ui \

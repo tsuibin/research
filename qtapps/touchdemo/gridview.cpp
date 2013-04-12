@@ -1,8 +1,9 @@
-#include "girdview.h"
-#include "ui_girdview.h"
 
-#include "imglabel.h"
-#include "appenv.h"
+#include "gridview.h"
+#include "ui_gridview.h"
+
+#include "common.h"
+
 
  GirdView::GirdView(QWidget * parent):
 QWidget(parent), ui(new Ui::GirdView)
